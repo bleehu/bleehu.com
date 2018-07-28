@@ -1,0 +1,15 @@
+<unitedgoblinkingdoms>
+	<name> United Goblin Kingdoms</name>
+	<body> One of the countries that allied with the Empire of Light, they maintained their own government, which made the transition very simple for them when the Empire of Light fell.  They are currently at war with UTAH.  The United Goblin Kingdoms are inhabited by civilized goblins, unlike their tribal brethren, they are extremely intelligent, and focus on craftsmanship and magic over physical might.  Few civilized goblins know how to handle common weaponry, but never believe them defenceless.  During the last Great War they fought the Empire of Light to a standstill, with an army outnumbered 10 to 1.  They currently have an army 20,000 strong, with 5,000 mechanical golems. </body>
+	<cities>
+		<gomeria>
+			<city> Gomeria </city>
+			<description>An ancient Goblin city, it survived the last Great War, although much of it had to be rebuilt.  It is a tribute to the Goblins love of tinkering.  Their are entire sections of the city that are designed to be movable, with their design being improved by ambitious goblins every day. Success is measured, not in money or fame, but how long it takes for someone else to think of a better design. The city rises high, new skyscrapers are always being built.  The tallest building currently is 90 floors high, using magically reinforced metals.  Factories are everywhere, and the goblins are always experimenting.  Although they may not have much in the way of traditional weaponry, these goblins show no fear in the faces of enemies, often inventing weaponry out of household items on the fly to defeat their foes.</description>
+			</gomeria>
+		<bargon>
+			<city> Bargon </city>
+			<description> The city of factories.  The goblins take materials sold to them by Argonis, and create a multitude of items.  If you can think of it, they make it, the only exception being weaponry.  Goblins refused to make weapons until recently, relying on trade, their magic, and their natural wit to equip them for war.  With the return of the Great War they began manufacturing weapons again, taking designs from their archives.  Their mechanical golems crushed the forces of UTAH, but they cannot stop the magic of Harloh.
+			</description>
+			</bargon>
+	</cities>
+</unitedgoblinkingdoms>

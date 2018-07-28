@@ -1,0 +1,38 @@
+body 		{background-image:url('images/Rock Floor.png')}
+h1			{font-size:32px; text-align:center;}
+h2			{font-family:'allura',georgia}
+h3			{font-size:24px; text-align:center;}
+h4			{font-size:18px;}
+p			{font-size:16px; line-height:20px; font-family:'arial'; text-align:justify;
+				width: 400px; padding:5px; text-indent:24px;}
+tr			{border:1px solid #444444;}
+td			{border:1px solid black;}
+
+#container 	{width:730px; height:auto;
+			border:solid 1px black; 
+			margin-top:20px; margin-right:auto; margin-bottom:0px; 
+			margin-left:auto; padding:10px;
+			background-color:#eeeeee; background-image:url('images/Light Wood.png');
+			background-repeat:repeat;
+			overflow:visible}
+#container > div	{background-color:#E8BA6D; border:3px solid #A33E00; margin:5px;}
+#contents	{border: 2px solid black; background-color:#ffdd22; margin:5px;
+				max-width:320px;}
+#atlas		{margin-left:auto; margin-right:auto;}
+#toolbar	{background-image:url('images/Light Wood.png'); margin: 3px; padding: 4px;
+				max-width:550px;}
+
+.bld		{font-weight:bold; font-size:18px;}
+.em			{font-style:italic;}
+.rule		{border: 2px solid black; max-width: 550px; background-color:#E8BA6D; margin: 3px;}
+.rule p		{text-indent: 8px; width: 90%;}
+.houseRule	{border:2px solid black; width:90%; background-color:#FF761C; margin-left: 2px;}
+.houseRule img, h4 {display:inline; vertical-align: middle; margin:2px;}
+.cityPic	{width:380px; border:2px solid #7F1700;}
+
+@font-face{
+	font-family:'allura';
+	src:url('Allura-Regular.otf') format('opentype');
+	font-weight:normal;
+	font-style:normal;
+}

@@ -1,0 +1,21 @@
+h1			{color:#ffffff; text-align:center; font-family:"Verdana", fantasy;}
+body			{background-color:#333333;}
+input	,textarea,dl		{float:left; clear:left;}
+
+.panel		{border:3px solid black; float:left; overflow:hidden; margin: 2px;
+				padding:3px; background-color:#dddddd;}
+.contract	{border:1px solid #00ee00; overflow:hidden; max-width: 440px;}
+.follower	{overflow:hidden; border:solid 1px black;}
+
+#container	{max-width:816px;}
+#container, #toolbar	{margin-left:auto; margin-right:auto;}
+#followers	{width:128px; overflow:scroll; max-height: 660px;}
+#contracts	{max-width: 328px; overflow:scroll; max-height: 660px;}
+#adventureDiscription	{}
+#toolbar	{max-width:800px; clear:both;}
+#newFollower:hover, #followers:hover
+	{background-color:#555555;}
+
+@media screen and(width < 800px){
+	#container	{width:550px;}
+}

@@ -1,0 +1,53 @@
+<tychicus>
+	<name> Tychicus </name>
+	<body>
+
+Before Tychicus was formed, many people were displaced as refugees of the Great War. These people settled in a destitute refugee camp over the future site of Ramoth City. Along with these refugees came a small number of peace-seeking fighters who escorted them on their journey.
+
+The prominent band of fighters really first came together to rescue a man who was noted for his verbal eccentricity, but written wisdom, from marauding goblins who felt that the the otherwise unclaimed territory was theirs. It was during this breif skirmish that the fighters found unity and group cohesion, as well as one of the core principles of stealth.
+
+Soon after the camp grew into a settlement large enough both to feed and shelter the refugees who were there, and to attract the attention of bandits who planned to raze the towns in the area for plunder. In a history-defining move, the band united the nearby towns in the effort to preserve peace in the area. These unified towns and tribes would later become the Tychicus of today. While Komoto shrewdly negotiated the support and deployment of troops to the town under attack, Kriv courageously led the rest of the band in an assassination of the Bandit's Chieftain. The companions were wildly successful on both prongs of the attack, and their success led to a more prosperous region.
+
+When zombies from the local graveyard arose to terrify the town, the band brutally returned the dead to the afterlife. They soon tracked down the necromancer responsible with the help of Shadow, the talented hobbit. With a split vote, the band decided to honor their God by sparing the life of the Necromancer with a desperate plea to their God to prevent the summoning of Orcus himself. The Necromancer lost all of her memories and was pardoned for her sins and allowed to live in the now budding town of Ramoth.
+
+When sightings of Fey creatures in the area surrounding the towns provoked distress in their home town's mayor, The band eventually found their way to a stolen amulet and Feybreach Castle. They cunningly deceived the monsters there into turning on each other, after which they subdued the Fey portal there with little difficulty.
+
+When word of a deadly assault from the Great War reached the band, they immediately sprang into action. While Komoto began the diplomacy that founded the country of Tychicus, the band's rogues began a massively successful sabotage campaign that delayed arrival of the attackers by near a month. A month in which Kriv and his sister Aroari used to build stalwart timber walls and Shadow used to construct devastating elemental defenses around the country's entire border. Athena helped as well by adding firetraps to the border before the fight. After some fierce fighting on the border, the attackers fell back, relenting to find easier prey.
+</body>
+	<cities>
+		<Ramoth>
+		<city> Ramoth </city>
+		<description> Ramoth is the city built in large part by the party of adventurers who eventually founded Tychicus. It takes its name from a city God designated as a city of refuge, since that is what the settlers who built the place were hoping to find. Since then, it has grown to include the Center of Government building, which among other things, keeps track of the military treasury.
+		</description>
+		</Ramoth>
+		<Kedesh>
+		<city> Kedesh </city>
+		<description> Kedesh gets its name from a biblical city of shelter. It is known for its Mayor's ferocity in battle, genrocity, and giant Racoons. During the War of establishment, Kedesh soldiers made up the bulk of the force that defended the border of Tychicus. The legendary mayor is named Kardin.
+		</description>
+		</Kedesh>
+		<Kamiak>
+		<city> Kamiak </city>
+		<description> Kamiak is one of the smallest walled cities in the country of Tychicus, but sure isn't the least important. The city is home to (among others) the Arcane Academy, where The country's best and brightest mages live, train, and study.
+		</description>
+		</Kamiak>
+		<Mt.Ebal>
+		<city> Mt. Ebal</city>
+		<description> Mt. Ebal is both the name of the largest mountain in the range in central Tychicus and the city on its northern side. The city and mountain take their name from a biblical landmark, which means roughly "Monument to God; Deliverer of Victory". Historically, the town Assisted moderately in the early bandit wars and rallied valiantly in the War of Establishment. In more modern times, The city holds a concealed ninja's dojo, which trains and houses many of Tychicus's covert operators and assassins.
+		</description>
+		</Mt.Ebal>
+		<Cassalua>
+		<city> Cassalua </city>
+		<description> Cassalua is more of a large district than a single city. Cassalua joined Tychicus voluntarily just before the war with Necronia. During the Necrotic War, knights and soldiers from the kingdom of Cassalua aided greatly by defending Tychian towns.
+		</description>
+		</Cassalua>
+		<NorthernMines>
+		<city> Northern Mines </city>
+		<description> The small mining town north of the enchanted forrest is serviced by a mining road built by Kriv, and sports a state-of-the-art crane, but mostly lacks the number of workers necissary to make it a real economic power for now. It does however produce enough material to supply domestic research, such as bomb research at the dojo in Mt. Ebal or siege research in Kedesh. For quite some time, the northern mines where the only source of metal for Tychicus, but since the annex of Cassalua, it now services mostly the eastern cities.
+		</description>
+		</NorthernMines>
+		<Feybreach>
+		<city> FeyBreach </city>
+		<description> Coming soon! </description>
+		</Feybreach>
+		</cities>
+</tychicus>

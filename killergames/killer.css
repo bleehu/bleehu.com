@@ -1,0 +1,20 @@
+h1,h2,h3,h4				{text-align:center;}
+body						{background-color:#010101; color:rgb(199,0,0);}
+p						{text-indent:22px;}
+ul						{list-style-type:none; text-indent:-28px;}
+
+.console				{width:68%; margin-left:auto; margin-right:auto;}
+.price					{border:1px solid black; border-radius:16px;}
+
+#toolbar, .console, #intro	{border:solid 2px black; background-color:#dddddd;
+							border-radius:18px;}
+#banner					{font-size:32pt; font-family:fantasy;}
+#toolbar				{position:fixed; left:2px; top:80px; max-height:80%;
+							overflow:scroll;}
+#container				{margin-left: auto; margin-right:auto; width: 80%; 
+							background-color:#777777; border:solid 3px black;
+							border-radius:22px;}
+#intro					{width:70%; margin-left:auto; margin-right:auto; padding:12px;}
+#logo					{width:60%; border:solid 2px black; margin-left:auto;
+							margin-right:auto; margin-top:6px; margin-bottom:6px; 
+							display:block; border-radius:6px;}

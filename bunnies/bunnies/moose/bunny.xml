@@ -1,0 +1,16 @@
+<bunny>
+<name> Moose </name>
+<age> 0 </age>
+	<stats>
+		<strength> 1 </strength>
+		<speed> 1 </speed>
+		<maxStamina> 10 </maxStamina>
+	</stats>
+	<skills>
+		<weaponCraft> 1 </WeaponCraft>
+		
+	</skills>
+	<tools>
+		<weapon> stick </weapon>
+	</tools>
+</bunny>

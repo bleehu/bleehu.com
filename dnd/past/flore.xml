@@ -1,0 +1,122 @@
+<lore>
+	<follower name="Shadow" class="mage">
+		<origin>
+			<p>Shadow used to adventure with Kriv, Kimoto, Amithirsty and the rest before he retired
+				to serve as headmaster at the magical academy in Kamiak. He has served there for almost
+				a year, assisting in research and administering to the students there.</p>
+			<p>Shadow is a halfling mage specializing in conjuration and fire magics.</p>
+		</origin>
+	</follower>
+	<follower name="Roscoe" class="mage">
+		<origin>
+			<p>Before the Great Century War, Roscoe was a young prodigy trained by Master
+				Septain, the same wizard who trained Wildlovelies. He and Lovelies fled
+				the Capitol University For Arcane Arts together, but they were separated
+				in the woods before Wildlovelies came to Tychicus.</p>
+			<p>When a ransom note was sent to Wildlovelies, He and Balasaar massacred a
+				tribe of Lychen soldiers in a desert canyon. They found their leader trying
+				to summon a demon to posses him. Swift action led to a free Roscoe,
+				happily united with his adopted older brother.</p>
+		</origin>
+	</follower>
+	<follower name="Donnar the Grizzled" class="mage">
+		<origin>
+			<p> An old human wizard originally hailing from the province
+				of Cassalua. </p>
+		</origin>
+	</follower>
+	<follower name="Mattemeo" class="Assassin">
+		<origin>
+			<p>The young human male Mattemeo is current master of the ninja dojo
+				at Mt. Ebal. When he is not abroad on scouting and wetwork missions,
+				he spends his time honing the skills of the assassins who live on 
+				the mountain.</p>
+			<p>Mattemeo has been fearless since he was first found by [cassie's Character]
+				in Month 1. He was attempting to save himself and his mother from a small
+				squad of bandits who showed impending attempt at harming them. [cassie's
+				character] swiftly saved the both of them.</p>
+		</origin>
+	</follower>
+	<follower name="Rex" class="Assassin">
+		<origin>
+			<p>Rex is a human assassin who was captured by bandits before being freed by Kriv, Marindred
+				Balasaar, et al. His face is covered in scars, and his voice is rather
+				gravely. He is a man of few words and he tends to prefer simple solutions
+				to tactical problems.</p>
+		</origin>
+	</follower>
+	<follower name="Hess" class="Assassin">
+		<origin>
+			<p>Hess served a bandit king as his chief assassin. His perfered weapon is a magical 
+				garrotte that silences its victim. He was about to use it on Kriv before Marindred
+				did his best to diffuse the situation. Hess was curious about God and Jesus, while his
+				king took a more violent reaction. Hess has since served with the Guild of Heroes saving
+				innocent people, researching new weapon technology and studying the person of Christ
+				with Marindred.</p>
+		</origin>
+	</follower>
+	<follower name="Larko" class="Assassin">
+		<origin>
+			<p>Once talked a renowned criminal into taking a bite of a mysterious apple.
+				[If anyone can expound upon this, please let Mike know]</p>
+		</origin>
+	</follower>
+	<follower name="Radifen" class="Leader">
+		<origin>
+			<p>Radifen was the governor of Ramoth since its founding just after
+				the breakout of the Great Century War (Month -3). He worked closely
+				with the heroes of old, giving them quests and assisting with the
+				politics of nation since its founding. He currently holds the chief
+				seat on the Tychicus council.</p>
+		</origin>
+	</follower>
+	<follower name="Desaric" class="Leader">
+		<origin>
+			<p>The soft-spoken, concise governor of Mt. Ebal is Desaric.</p>
+		</origin>
+	</follower>
+	<follower name="Kardin" class="Leader">
+		<origin>
+			<p>Before the formation of Tychicus, Kardin was the governor of the 
+				city-state of Kedesh. He loaned his giant raccoon to Kimoto during
+				the battle for formation, and later taught Kimoto to wrangle
+				giant raccoons as well. Since the formation of Tychicus, he has
+				been a shining light for all of Tychicus. He has helped found
+				towns, raised employment, and arbitrated disputes with wisdom
+				and diligence.</p>
+		</origin>
+	</follower>
+	<follower name="Corinc" class="Leader">
+		<origin>
+			<p>Before the formation of Tychicus, Corinc was the governor of the 
+				city-state of Kamiak. While he made the safe call to not support
+				the independance war very much, he has since made up for this
+				shortcoming of supprt in his activities since then. He is a very
+				peaceful and compassionate leader who values his citizens above
+				all else.</p>
+		</origin>
+	</follower>
+	<follower name="Wunk" class="assassin">
+		<origin>
+			<p>Wunk is a large bladeling trained as a Warblade in the army of Razorin.
+				His education is mostly in the martial arts, and he has little other
+				intellectual interests. Wunk's speech tends to be monosyllabic, and
+				his poetry is equally abysmal. The most important thing in the 
+				world to Wunk is his pink, fluffy teddybear which he leaves at home
+				when he goes on missions.</p>
+			<p>Wunk was trained as a fighter, and his classification as an assassin
+				is a bit of a misnomer. As an assassin, he's a bit of a blunt instrument,
+				well-adapted for large-scale sabotage or simple-instruction missions.</p>
+			<p>During Month 11, one of Razorin's Field Marshalls led a deep strike into
+				a mine in Assembly Territory. Field Marshall Maizaka ordered Wunk to 
+				assist the Tychean heroes and act as a goodwill liason.</p>
+		</origin>
+	</follower>
+	<follower name="Torrin Razorback" class="assassin">
+		<origin>
+			<p> Torrin is an aged Dragonborn who used to be a thief, but has
+				since improved his ways... to killing things for the good
+				of the nation.</p>
+		</origin>
+	</follower>
+</lore>

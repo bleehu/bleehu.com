@@ -1,0 +1,16 @@
+<Dwargoric>
+	<name> Dwargoric </name>
+	<body> Little is known about the situation in the dwarven country, other than that recently dwarves have fled above ground for an unknown reason.</body>
+	<cities> 
+		<Dwargoric> 
+			<city> Dwargoric </city>
+			<description>Little is known about this newly formed city.
+			</description>
+		</Dwargoric>
+		<Carig> 
+			<city> Carig </city>
+			<description> Little is known about this newly formed city.
+			</description>
+			</Carig>
+	</cities>
+</Dwargoric>

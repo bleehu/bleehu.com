@@ -1,0 +1,11 @@
+<gnomerigon>
+	<name> Gnomerigon </name>
+	<body> Protected by Fey Magic, this side of Gnomerigon is nearly impenetrable. They have no cities on this side, and few people.  In order to get to the true Gnomerigon, you must travel to Eden's Gate, or travel through the Fey world.  Eden's Gate is protected by extensive Fey magic, making it nearly impossible to navigate the forest around it safely.  Going through the Fey world can be just as dangerous, but will be easier if you have someone who knows the way. The Gnomes protect a great secret. They will do anything to defend this secret, even to the point of wiping it off the minds of any Gnome who leaves their borders.  You now have safe travel to Gnomerigon through the Fey world (although it is a long journey) and you have magical communication with them when you wish.</body>
+	<cities>
+		<edensGate> 
+			<city> Eden's Gate </city>
+			<description>A city built to protect the weygate.  This gate goes directly into the true heart of Gnomerigon.
+			</description>
+		</edensGate>
+	</cities>
+</gnomerigon>

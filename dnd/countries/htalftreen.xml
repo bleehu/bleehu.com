@@ -1,0 +1,12 @@
+<HtalfTreen>
+	<name> HtalfTreen</name>
+	<body> A country of halflings, it is a very peaceful area.  They had an alliance with the Empire of Light and are allied with everyone around them, with the express clause on all their treaties that HtalfTreen will never enter war to help its allies.</body>
+	<cities> 
+		<HtalfTreen> 
+			<city> HtalfTreen</city>
+			<description>
+			Made up of rolling hills and natural houses, either sung out of wood, or snugly under ground, HtalfTreen is arguably the most peaceful place on earth.  Indeed the halflings would argue that is was the most peaceful place in the world.  Only the peaceful halflings are allowed to stay in HtalfTreen, any halfling that shows any capacity for violence is exiled permanently.
+			</description>
+			</HtalfTreen>
+	</cities>
+</HtalfTreen>

@@ -1,0 +1,12 @@
+<Dwarbic>
+	<name> The Dwarven Republic </name>
+	<body> Dwarbic for short, there was a split in the dwarven ranks, causing the formation of two dwarven nations, but little is known about the situation. What is known, is that during the reign of the Empire of Light dwarves were oppressed by the other races.  The only race to refuse to treaty after the last Great War they were crushed between the Empire of Light and the sea.  Some dwarfs escaped to the sea, populating most of the islands, but most were enslaved.  Any dwarf on the mainland would kill a human or dragonborn on sight.</body>
+	<cities>
+		<Reorf> 
+			<city> Reorf </city>
+			<description>
+			Records say that Reorf is a mining town, little else is known.
+			</description>
+			</Reorf>
+	</cities>
+</Dwarbic>

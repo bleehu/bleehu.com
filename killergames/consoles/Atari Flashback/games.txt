@@ -1,0 +1,20 @@
+Adventure|Atari|N/A
+Air-Sea Battle|Atari|N/A
+Asteroids|Atari|N/A
+Battlezone|Atari|N/A
+Breakout|Atari|N/A
+Canyan Bomber|Atari|N/A
+Centipede|Atari|N/A
+Charley Chuck's Food Fight|Atari|N/A
+Crystal Castles|Atari|N/A
+Desert Falcon|Atari|N/A
+Gravitar|Atari|N/A
+Haunted House|Atari|N/A
+Millipede|Atari|N/A
+Planet Smashers|Atari|N/A
+Saboteur|Atari|N/A
+Sky Diver|Atari|N/A
+Solaris|Atari|N/A
+Sprintmaster|Atari|N/A
+Warlords|Atari|N/A
+Yars' Revenge|Atari|N/A

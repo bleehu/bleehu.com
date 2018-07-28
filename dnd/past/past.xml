@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<past>
+  <story month="7">
+    <follower> Follower: Mattemeo</follower>
+    <contract> Contract: Scout Goblin Kingdom </contract>
+    <result> Result: Gained much information on Goblin Kingdom</result>
+  </story>
+  <story month="7">
+    <follower> Radifen, Corinc, Kardin</follower>
+    <contract> Strengthen Settlement</contract>
+    <result> Area to the east settled, trade increased, + 100 gold per month for 
+		Tychicus</result>
+  </story>
+  <story month="7">
+    <follower> Desaric</follower>
+    <contract> The Yellow Brick Road</contract>
+    <result> A communication channel with Gnomerigon is now open</result>
+  </story>
+  <story month="7">
+    <follower> Shadow, Larko</follower>
+    <contract> Mind Dust Part II</contract>
+    <result> No word on who controls the mind dust, but a temporary cure has been 
+		found, it will prevent the mind dust from working on someone for a limited 
+		time, but will not help someone already taken by the mind dust</result>
+  </story>
+  <story month="7">
+    <follower> Gregory</follower>
+    <contract> Now You See Me</contract>
+    <result> No progress, although Gregory now knows many way not to make an 
+		invisibility cloak.</result>
+  </story>
+  <story month="7">
+    <follower> Dexter</follower>
+    <contract> Tick Tick</contract>
+    <result> Timer functional for times up to 10 hours, but still very large and 
+		obvious.</result>
+  </story>
+  <story month="7">
+    <follower> Hess</follower>
+    <contract> Spy Hunter</contract>
+    <result> Several possible operatives found, but none confirmed</result>
+  </story>
+  <story month="7">
+    <follower> Remera and Lorani</follower>
+    <contract> The Things Unseen</contract>
+    <result> Progress made, but currently the dark vision spell also causes 
+		giddiness</result>
+  </story>
+  <story month="9">
+    <follower>-</follower>
+    <contract>-</contract>
+    <result>-</result>
+  </story>
+  <story month="9">
+    <follower>Mattemeo</follower>
+    <contract>Mind Dust Part II</contract>
+    <result>Larko discovered that at the center of the mind dust was an order called the followers of Denarkic.  Mattameo discovered that they have a way to immunize themselves against it, and quickly applied it to himself and brought it back to the research laboratory for analysis.  </result>
+  </story>
+  <story month="9">
+    <follower>Radifen</follower>
+    <contract>The Enemy of My Enemy...</contract>
+    <result>The Goblin Kingdom has entered an uneasy alliance with you.  Most of the citizens still do not trust you as you have a reputation for being deadly on the battlefield, no matter the foe.  Although your recent work with them on the ashen cities is beginning to sway some of the people&#x2019;s minds.    </result>
+  </story>
+  <story month="9">
+    <follower>Corinc</follower>
+    <contract>Hire New Blood</contract>
+    <result>Unfortunately, Corinc was unable to convince anyone to join this month.  Kardin however brought in a few people:  an able bodied young man who seems to be decent at everything, a skilled young warlock, and an old hardened thief who wishes to change his ways.  You may choose to which of Tychicus&#x2019; fine establishments to send them to (ask if you have questions about this, its been a while since you guys got followers this way). </result>
+  </story>
+  <story month="9">
+    <follower>Desaric</follower>
+    <contract>Strengthen Settlement</contract>
+    <result>The area is now more heavily populated, and trade has begun to flow through it.  +150 gold per month for Tychicus</result>
+  </story>
+  <story month="9">
+    <follower>Shadow</follower>
+    <contract>The Method Behind The Mind Dust II</contract>
+    <result>Method behind the Mind Dust&#xD;
+Shadow refined and can now mass produce the immunization that Mattemeo found, but was unable to derive a cure from it.&#xD;
+</result>
+  </story>
+  <story month="9">
+    <follower>Gregory</follower>
+    <contract>Tick Tick</contract>
+    <result>Gregory only succeeded in burning himself this month sadly.</result>
+  </story>
+  <story month="9">
+    <follower>Dexter</follower>
+    <contract>Now You See Me</contract>
+    <result>Dexter succeeded in making a fully working and viable invisibility cloak, but it must be regularly charged by a magic user.  Right now it only works for 10 minutes without a magical power source.</result>
+  </story>
+  <story month="9">
+    <follower>Hess</follower>
+    <contract>Scout Dargeenbaron</contract>
+    <result>Dargeenbaron is inhabited by the other tribes of Dragonborn who were driven out by the Spyderclaws.  Many of them were allies of the Smokescales in the past.</result>
+  </story>
+  <story month="9">
+    <follower>Rex</follower>
+    <contract>Spy Hunter PII</contract>
+    <result>Many spies were thrown in jail this month.  Those who were innocent were left unharmed.</result>
+  </story>
+  <story month="9">
+    <follower>Remera and Lorani</follower>
+    <contract>The Things Unseen</contract>
+    <result>Remera, Lorani and Roscoe were able to get rid of the giddiness, but in order to do so had to make it a limited spell.  It will only work for 5 minutes.  After that it must have its fuel source recharged.  Its fuel source is laughter (they discovered that is what was causing the issue).  The good news is you now have reason to take a Barrel of Laughs onto the battlefield with you.</result>
+  </story>
+  <story month="9">
+    <follower>Fai</follower>
+    <contract>Scout The Realm of Tieflings PI: In Sheeps Clothing</contract>
+    <result>Upon entering the realm of Tieflings Fai found an entirely peaceful people, although they did seem agitated because of something they would only refer to in hushed tones as &#x201C;the magic of Harloh&#x201D;.</result>
+  </story>
+  <story month="9">
+    <follower>Evynne</follower>
+    <contract>Scout Griv</contract>
+    <result>Griv is ruled by king Gharn, loved by the people, he is a very peaceful ruler.  It is public knowledge that he is saddened that he had to live during one of the Great Wars.    He will work with anyone so long as they proclaim peace and do not try to take advantage of his people.  He is known throughout the land as a fair and just ruler.</result>
+  </story>
+  <story month="9">
+    <follower>Kriv</follower>
+    <contract>Toughie the vampire slayer</contract>
+    <result>Many Vampires have been slain.</result>
+  </story>
+  <story month="9">
+    <follower>Marindred</follower>
+    <contract>Once More Unto The Breach</contract>
+    <result>And so, according to his manner, Marindred headed to Feybreach to see 
+		about these manuscripts, playing his sax or strumming his lute as he strolled.
+		Along the way, he passed by a small village of outlying farms, where the locals
+		tended to play drums, and after a small jam session, he continued on his way.
+		Upon reaching Feybreach, Marindred checked in through the front gate and proceeded
+		to the castle proper. He waved cheerfully at the soldiers who were working and 
+		training there. He spent nights partying with the soldiers, playing card games,
+		drinking Tychican ale, and singing ballads of recent adventures with a large audience.
+		He spent his mornings meditating, praying and writing songs. His afternoons however, 
+		were dedicated strictly to deciphering the documents that the soldier had found. And 
+		they told a very interesting story indeed... According to one writing, the portal
+		in the castle was entirely artificial, built by a powerful enchanter from ages gone by.
+		A note scribbled in one text contained an incantation said to link the portal somewhere
+		other than the Fey. The note referred to the place as "Jaroarfor". Whatever that meant.
+		After a little more study, and a quick consultation from Shadow, Marindred decided to give
+		it a try. And so, true to his style, Marindred stepped forth through the portal with
+		saxaphone blaring!
+</result>
+  </story>
+  <story month="9">
+    <follower>Wildlovelies</follower>
+    <contract>Through The Grapevine: Gnome's Gate</contract>
+    <result>Geoff and Wildlovelies sought passage through the enchanted forest to Gnome's Gate to use it as an easier passage to Gnomerigon.  However, the Gnome's have replied that passage through the forest surrounding the gate is impossible, even for them.  They mentioned that it was once possible but was not anymore.  When Geoff and Wildlovelies reported their findings, Shadow said he would do some research and see what he could dig up about passage through the forest in the past...</result>
+  </story>
+  <story month="10">
+    <follower>-</follower>
+    <contract>-</contract>
+    <result>-</result>
+  </story>
+  <story month="10">
+    <follower>Rex, Fai, Evynne, Rorre, Gardonazorph, Stasi, Aramil, </follower>
+    <contract>Scout The Aviary</contract>
+    <result>tl;dr: You know a bunch about the Aviary, please see the map of Jaroarfor for more information.&#xD;
+&#xD;
+You find that The Aviary is ruled by a hierarchy of Sky Lords, whom are served by warriors. Knights and Calvary who ride various birds ranging in size from that of a small horse to those larger than some dragons. They have plutonic diplomatic relationships with a couple of other nations, in which they are less of allies and more business partners. While even their sworn enemies, the Nymphs, have a basic understanding of the lifestyle and customs of the multiracial working class, the elite society is rather exclusive. &#xD;
+&#xD;
+The ladies, Fai and Evynne take a whirlwind tour of the city of Tradewinds, and take down notes on what the city has to trade. SHOPPING SPREE!!!!&#xD;
+&#xD;
+Gardo and Stasi recon sporadic battles across the nation's northeastern border, blending with several supply crews.&#xD;
+&#xD;
+Rex, Rorre and Aramil gathered a topographical outline of the entire country, including several landmarks of note. Much rockclimbing was trolled.</result>
+  </story>
+</past>

@@ -1,0 +1,4 @@
+Wesley
+Echo 9
+A young zombie hunter with a bright future, Wesley is just begining his career unmaking the undead. Recruited by <a href="agent.php?agent=buttercup" title="Buttercup's Profile">Buttercup</a> in '13, Wesley makes a welcomed addition to Echo Team.
+When an unlucky break infected Wesley during his first day of deployment, he was robbed of the chance to bring to bear more heavy equipment. Echo Team looks forward to his work with heavier weaponry in future.

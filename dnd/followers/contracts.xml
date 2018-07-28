@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contracts>
+  <contract class="mage">
+    <name>Tick Tick</name>
+    <description>
+			Continue Research at the arcane College on time-delay detonation packages.
+			Specifically ones that are a little less gargantuan.
+		</description>
+    <skill>research</skill>
+  </contract>
+  <contract class="mage">
+    <name>Big Bada Boom!</name>
+    <description>
+			Begin Research on magical ordinance of a greater magnitude yield. 
+		</description>
+    <skill>research</skill>
+  </contract>
+  <contract class="mage">
+    <name>Hammer Time</name>
+    <description>
+			Continue Shadow's research on improving Kriv's hammer to have gravity-modulating effects.
+		</description>
+    <skill>research</skill>
+  </contract>
+  <contract class="mage">
+    <name>It's Called a what?</name>
+    <description>
+			Continue Dexter's research on the non-detection cloak, a technology similar
+			to the invisibility cloak, but a little more versatile.
+		</description>
+    <skill>research</skill>
+  </contract>
+  <contract class="mage">
+    <name>Now You Don't</name>
+    <description>
+			Continue Gregory's Research at the arcane College on the Invisibility cloaks. A longer duration would be nice.
+		</description>
+    <skill>research</skill>
+  </contract>
+<!--
+	<contract class="leader">
+		<name>Going Green</name>
+		<description>
+			The UGK has entered an uneasy alliance with us. Let's see if that alliance could include some trade agreements.
+		</description>
+		<skill>diplomacy</skill>
+	</contract>
+	-->
+  <contract class="leader">
+    <name>Strengthen Settlement</name>
+    <description> The ruins of the plains to the east have been settled by farmers. These 
+			Farmers are no longer being troubled by wendigo, but they're still a ways away 
+			from being a city. Lead some settlers to enjoy the fruits of this fertile land 
+			and soon-to-be burgeoning trade route!</description>
+    <skill>economy</skill>
+  </contract>
+  <contract class="leader">
+    <name>Develop Scorched Lands Settlement</name>
+    <description> The new settlement in central Tychicus on Jaroarfor is ... pitiful.
+			Spend some significant time encourage the many industrious citizens of
+			Tychicus to develop the settlement into an actual village.</description>
+    <skill>economy</skill>
+  </contract>
+  <contract class="leader">
+    <name>Hire New Blood</name>
+    <description> There are plenty of opportunities for citizens of Tychicus who
+			want to work for the Hero's guild. See if any of Cassalua's finest want to
+			join up.</description>
+    <skill>inspiration</skill>
+  </contract>
+  <contract class="leader">
+    <name>Through The Grapevine: feisty little guys... </name>
+    <description> Diplomatic ties have been made with Gnomerigon. Continue the
+			discussion to try to secure an allied military coalition.</description>
+    <skill>diplomacy</skill>
+  </contract>
+  <contract class="leader">
+    <name>Through The Grapevine: Money Back Gnomentee </name>
+    <description> Diplomatic ties have been made with Gnomerigon. Continue the
+			discussion to try to secure an working trade relationship.</description>
+    <skill>diplomacy</skill>
+  </contract>
+  <contract class="assassin">
+    <name>The Corriolis Effect</name>
+    <description>Go to the Ninja Dojo and continue Geoff's research on very long range 
+			crossbows!</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="assassin">
+    <name>Declare War on The Aviary</name>
+    <description>This contract CANNOT be taken if anyone takes the negotiation
+			contract. Move to assassinate key members of The Aviary's hierarchy in
+			anticipation of conquering their mountainous terrain.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="assassin">
+    <name>My Mother's Cooking...</name>
+    <description>Go to the ninja's dojo at Mt. Ebal and research some clever poisons.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="assassin">
+    <name>Scout The Assembly</name>
+    <description>In Jaroarfor, our southern border is dominated by a race of
+			hostile, arcanic constructs. Sneak into hostile territory and 
+			find information about their borders, their cities (if they have any)
+			and their forces.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="player">
+    <name>Suggest A Contract!</name>
+    <description>Please suggest more contracts!!!
+			</description>
+    <skill/>
+  </contract>
+  <contract class="player">
+    <name>Scout The Assembly</name>
+    <description>In Jaroarfor, our southern border is dominated by a race of
+			hostile, arcanic constructs. Sneak into hostile territory and 
+			find information about their borders, their cities (if they have any)
+			and their forces.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="player">
+    <name>Negotiate Alliance with The Aviary</name>
+    <description>A cold approach is tough, particularly with how the upper echelons
+			of The Aviary's society being so xenophobic, but having another ally on the
+			plane would be of value. The Aviary only trades with its business partners.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="player">
+    <name>Declare War on The Aviary</name>
+    <description>This contract CANNOT be taken if anyone takes the negotiation
+			contract. Move to assassinate key members of The Aviary's hierarchy in
+			anticipation of conquering their mountainous terrain.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="player">
+    <name>Scout The Jungle</name>
+    <description>The Aviary is apperently at war with a people between
+			the Tribe of Razorin and themselves. Covertly scope out the area and
+			report back.</description>
+    <skill>assassination</skill>
+  </contract>
+  <contract class="player">
+    <name>Develop Scorched Lands Settlement</name>
+    <description> The new settlement in central Tychicus on Jaroarfor is ... pitiful.
+			Spend some significant time encourage the many industrious citizens of
+			Tychicus to develop the settlement into an actual village.</description>
+    <skill>economy</skill>
+  </contract>
+  <contract class="player">
+    <name>My Mother's Cooking...</name>
+    <description>Go to the ninja's dojo at Mt. Ebal and research some clever poisons.</description>
+    <skill>assassination</skill>
+  </contract>
+<!--
+	<contract class="player">
+		<name>Construct the Temple</name>
+		<description>The Country needs a center for it's clerics and paladins. Also, a monument to the 
+			diety got us this far is well in order. Select a construction site and get building!
+			(the player that takes this contract first chooses what city it's built in).
+			</description>
+		<skill></skill>
+	</contract>
+	
+	<contract class="player">
+		<name>Construct the Theater</name>
+		<description>A center for Bards to hang out would be ideal as well. Grab some nails and
+			a planks of wood and get started. (The first player who takes this contract will
+			decide which city to build it in).
+			</description>
+		<skill></skill>
+	</contract>
+	-->
+<!--
+	<contract class="player">
+		<name>Interrogate Enemy</name>
+		<description>During his solo op in Gnomerigon, Geoff captured an enemy assassin with
+			likley ties to the an enemy assassin's guild. The prisoner could have very valuable
+			information. Or she might try to break out and kill everyone. Should be interesting.
+			It should be noted that the assassin is wanted in Gnomerigon for committing a massacre.
+			If we keep holding her, they might not like that we stole her away.
+			</description>
+		<skill></skill>
+	</contract>
+	-->
+</contracts>

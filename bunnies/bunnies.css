@@ -1,0 +1,8 @@
+h1, h2 		{text-align:center;}
+form			{width:80%; margin-left:auto; margin-right:auto;}
+img 			{display:block; margin-left:auto; margin-right:auto;}
+#pic		{background-image:url("images/bunnies/bunny.png"); 
+				width:148px; height:331px; margin-left:auto; margin-right:auto;}
+#color		{opacity:0.3; background-color:#cc1111; width:148px; height:331px;}
+#bunnydiv	{background-color:#999999; margin-left:auto; margin-right:auto; 
+				width:150px;}

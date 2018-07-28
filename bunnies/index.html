@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> Bunnies Online </title>
+		<link href="bunnies.css" rel="stylesheet" type="text/css"/>
+		<script src="simulate.js"
+		        type="text/javascript"></script>
+	</head>
+	<body>
+		<h1> Bunnies Online </h1>
+		<h2> Welcome! </h2>
+		<div id="bunnydiv">
+			<img src="images/bunnies/bunny.png" alt="a bunny" title="default bunny" />
+		</div>
+		<form action="bunny.php" method="GET">
+		<fieldset>
+			<legend> View A Bunny </legend>
+			<input type="text" name="bunny" placeholder="Type a bunny's name">
+			<input type="submit" value="Find in Garden">
+		</fieldset>
+		</form>
+		<form action="new.php" method="POST">
+		<fieldset>
+			<legend> Create A Bunny </legend>
+			<input type="text" name="bunny" placeholder="Type a bunny's name">
+			<input type="submit" value="Make your Bunny!">
+		</fieldset>
+		</form>
+	</body>
+</html>

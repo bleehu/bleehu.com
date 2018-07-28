@@ -1,0 +1,27 @@
+body 		{background-image:url('../images/Rock Floor.png')}
+h1			{font-size:32px; text-align:center; background-color:#aaaaaa;}
+h2			{font-family:'allura',georgia}
+p			{font-size:16px; line-height:20px; font-family:'arial'; text-align:justify;
+				max-width: 400px; padding:5px;}
+li			{list-style-type:none; margin-left:6px; margin-top:8px;}
+
+a			{color:#FFD249;}
+a:visited	{color:#FDFFA8;}
+a:hover		{color:#F23FFF;}
+
+.content	{width:80%; padding:3px; margin-top: 2px; margin-left:auto; 
+				margin-right:auto; text-indent: 8px;}
+.player		{background-color:#FFF2AA;
+				margin-top: 6px; margin-left: 6px; margin-right: 24px;
+				max-width: 440px;}
+.mage		{background-color:#BD49EF;}
+.assassin	{background-color:#39A7DD;}
+.leader		{background-color:#FFBF3D;}
+.bard		{}
+.player:hover	{background-color:#FFF2AA;}
+
+.content, #sidebar	{background-image:url('../images/Light Wood.png'); 
+				background-repeat:repeat; border:solid 1px black;}
+
+#toolbar	{height:auto; overflow:hidden; width:60%;}
+#sidebar	{position:fixed; width:80px; left:0px; top:80px;}

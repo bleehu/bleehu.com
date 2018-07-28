@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<followers>
+  <follower name="Mattemeo">
+    <class>assassin</class>
+    <stat name="assassinate">3</stat>
+    <stat name="stealth">5</stat>
+    <stat name="sabotage">3</stat>
+    <stat name="diplomacy">2</stat>
+    <mission>The Corriolis Effect</mission>
+    <note>He is the leader of the Ninja Dojo. Rescued by hero from bandits with his mother.</note>
+  </follower>
+  <follower name="Radifen">
+    <class>leader</class>
+    <stat name="diplomacy">5</stat>
+    <stat name="inspiration">4</stat>
+    <stat name="economy">4</stat>
+    <mission>Through The Grapevine: feisty little guys...</mission>
+    <note>Governor of Ramoth</note>
+  </follower>
+  <follower name="Corinc">
+    <class>leader</class>
+    <stat name="diplomacy">4</stat>
+    <stat name="inspiration">6</stat>
+    <stat name="economy">3</stat>
+    <mission>Going Green</mission>
+    <note>Governor of Kamiak</note>
+  </follower>
+  <follower name="Desaric">
+    <class>leader</class>
+    <stat name="diplomacy">4</stat>
+    <stat name="inspiration">4</stat>
+    <stat name="economy">5</stat>
+    <mission>Settle The Scorched Lands</mission>
+    <note>Governor of Mt. Ebal</note>
+  </follower>
+  <follower name="Kardin">
+    <class>leader</class>
+    <stat name="diplomacy">3</stat>
+    <stat name="inspiration">7</stat>
+    <stat name="economy">2</stat>
+    <stat name="racoon wrangling">4</stat>
+    <stat name="battle prowess">6</stat>
+    <mission>Through The Grapevine: Money Back Gnomentee</mission>
+    <note>Governor of Kedesh, has a giant racoon.</note>
+  </follower>
+  <follower name="Shadow">
+    <class>mage</class>
+    <stat name="arcana">6</stat>
+    <stat name="research">4</stat>
+    <stat name="battle prowess">2</stat>
+    <stat name="stealth">4</stat>
+    <mission>Hammer Time</mission>
+    <note>Headmaster of Arcane Academy</note>
+  </follower>
+  <follower name="Gregory">
+    <class>mage</class>
+    <stat name="arcana">1</stat>
+    <stat name="research">7</stat>
+    <stat name="battle prowess">0</stat>
+    <mission>Now You Don't</mission>
+    <note>Great researcher, now that he got over his fear of magic</note>
+  </follower>
+  <follower name="Dexter">
+    <class>mage</class>
+    <stat name="arcana">-1</stat>
+    <stat name="research">9</stat>
+    <stat name="battle prowess">-1</stat>
+    <mission>It's Called a what?</mission>
+    <note>Brilliant scientist, but he doesn’t believe in magic, I wonder what he could invent?</note>
+  </follower>
+  <follower name="Hess">
+    <class>assassin</class>
+    <stat name="assassinate">4</stat>
+    <stat name="stealth">6</stat>
+    <stat name="sabotage">3</stat>
+    <stat name="diplomacy">0</stat>
+    <mission>Scout The Assembly</mission>
+    <note>Has magic Garrote, budding faith in Christ</note>
+  </follower>
+  <follower name="Rex">
+    <class>assassin</class>
+    <stat name="assassinate">2</stat>
+    <stat name="stealth">4</stat>
+    <stat name="sabotage">4</stat>
+    <stat name="diplomacy">2</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Rescued from bandits in eastern plains.</note>
+  </follower>
+  <follower name="Larko">
+    <class>assassin</class>
+    <stat name="assassinate">1</stat>
+    <stat name="stealth">5</stat>
+    <stat name="sabotage">2</stat>
+    <stat name="diplomacy">6</stat>
+    <stat name="arcana">3</stat>
+    <mission>Scout The Assembly</mission>
+    <note>Once talked a renowned criminal into taking a bite of a mysterious apple.</note>
+  </follower>
+  <follower name="Remera and Lorani">
+    <class>mage</class>
+    <stat name="arcana">8</stat>
+    <stat name="research">3</stat>
+    <stat name="battle prowess">6</stat>
+    <stat name="diplomacy">4</stat>
+    <mission>Tick Tick</mission>
+    <note>Battle Mage Twins, Remera is good with fire/light, Lorani is good with water/ice</note>
+  </follower>
+  <follower name="Roscoe">
+    <class>mage</class>
+    <stat name="arcana">4</stat>
+    <stat name="research">4</stat>
+    <stat name="battle prowess">2</stat>
+    <mission>Tick Tick</mission>
+    <note>The Understudy of Wildlovlies master. Saved by Wildlovelies in month 9</note>
+  </follower>
+  <follower name="Balasaar">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>David's player character</note>
+  </follower>
+  <follower name="Kriv">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>Stephen H's player character</note>
+  </follower>
+  <follower name="Treklor">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>Dupree's player character</note>
+  </follower>
+  <follower name="Fai">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Leeanne's player character</note>
+  </follower>
+  <follower name="Evynne">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Ashlee's player character</note>
+  </follower>
+  <follower name="Suuth">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Construct the Temple</mission>
+    <note>Jesse's player character</note>
+  </follower>
+  <follower name="Marindred">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Construct the Theater</mission>
+    <note>Daniel player character</note>
+  </follower>
+  <follower name="Heiam">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>Niko's player character</note>
+  </follower>
+  <follower name="Rorre">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Matt's player character</note>
+  </follower>
+  <follower name="Geoff">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>Nate's player character</note>
+  </follower>
+  <follower name="Wildlovelies">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Interrogate Enemy</mission>
+    <note>Stephen L's player character</note>
+  </follower>
+  <follower name="Gardonazorph">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Robert's player character</note>
+  </follower>
+  <follower name="Kimoto">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Construct the Temple</mission>
+    <note>Michael's player character</note>
+  </follower>
+  <follower name="Stasi">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Anthony's player character</note>
+  </follower>
+  <follower name="Aramil">
+    <class>player</class>
+    <stat name="Level">12</stat>
+    <mission>Scout The Aviary</mission>
+    <note>Alex L's player character</note>
+  </follower>
+</followers>

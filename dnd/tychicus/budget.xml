@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<root net="130040" month="11">
+  <item repeat="true">
+    <name>Northern Mine profit</name>
+    <effect>20000</effect>
+  </item>
+  <item repeat="true" recruits="3">
+    <name>National Bank interest</name>
+    <effect>25000</effect>
+  </item>
+  <item repeat="true">
+    <name>Mt. Ebal ninja dojo upkeep</name>
+    <effect>-20000</effect>
+  </item>
+  <item repeat="true">
+    <name>Magic Academy upkeep</name>
+    <effect>-10000</effect>
+  </item>
+  <item repeat="true">
+    <name>Kedesh Woodshop Upkeep</name>
+    <effect>-15000</effect>
+  </item>
+  <item repeat="true">
+    <name>Internal Trade</name>
+    <effect>100</effect>
+  </item>
+  <item repeat="false">
+    <name>Wreck The Halls Bounty</name>
+    <effect>40000</effect>
+  </item>
+  <item repeat="false">
+    <name>Wreck The Halls Bonus</name>
+    <effect>6000</effect>
+  </item>
+  <item repeat="false">
+    <name>Construct Temple Of The Lord</name>
+    <effect>-8000</effect>
+  </item>
+  <item repeat="false">
+    <name>Construct Theater</name>
+    <effect>-6000</effect>
+  </item>
+</root>

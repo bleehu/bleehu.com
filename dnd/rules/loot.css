@@ -1,0 +1,53 @@
+body 		{background-image:url('../images/Rock Floor.png')}
+h1			{font-size:32px; text-align:center;}
+h2			{font-size:16pt; margin-top:4px; margin-bottom:2px;}
+h3			{font-size:24px; text-align:center;}
+h4			{font-size:18px;}
+a, a:visited	{color:#1188aa;}
+a:hover		{color:#11bb11;}
+hr			{clear:both; margin-top:2px; margin-bottom:0px;}
+p			{margin-top:3px; margin-left:5%; text-indent:5%; margin-bottom: 3px;}
+
+.em			{font-style:italic;}
+.rule		{border: 2px solid #B73A00; max-width:86%; background-color:#ffee33; 
+				margin: 3px; overflow:hidden;}
+
+.power		{float:left; width:340px; border:1px solid black; margin:2px;
+				height:460px; background-color:#eeeeee; overflow:scroll;}
+.body		{border:1px solid black;}
+.power p		{font-size:11pt;}
+.daily, .atwill, .encounter, .item	{text-align:center; color:#ffffff; padding:2px;}
+.daily p		{margin-top:2px;}
+.atwill		{background-color:#11bb11;}
+.encounter	{background-color:#ff1111;}
+.daily		{background-color:#aaaaaa;}
+.item		{background-color:#FFA323;}
+.range, .target		{width:40%; float:left; margin:5%; margin-top:3px;}
+.flavor		{font-style:italic; margin-left:5%; text-indent:5%; 
+				background-color:#aaaaaa; padding:2px; margin-right:5%;}
+.weapon		{margin-left:5%; margin-bottom:0px; margin-top:1px;}
+.unchecked	{list-style-image:url('images/unchecked.png');}
+.checked	{list-style-image:url('images/checked.png');}
+
+
+.linkList li	{display: inline; margin-left: 10%; border: 3px solid #CE5200; 
+				padding: 2px; background-color: #563400;}
+
+#container 	{width:90%; height:auto;
+			border:solid 1px black; 
+			margin-top:20px; margin-right:auto; margin-bottom:0px; 
+			margin-left:auto; padding:10px;
+			background-color:#eeeeee; background-image:url('../images/Light Wood.png');
+			background-repeat:repeat;
+			overflow:hidden;}
+#container > div	{background-color:#E8BA6D; border:3px solid #A33E00; margin:5px;}
+#contents	{border: 2px solid black; background-color:#ffdd22; margin:5px;
+				max-width:320px;}
+#toolbar	{background-image:url('../images/Light Wood.png'); margin: 3px; padding: 4px;
+				max-width:550px;}
+				
+@media screen and (min-width:720px){
+	.power		{overflow:auto; min-height:480px; height:auto;}
+	.power img	{max-width:340px;}
+	/*h3			{font-size:128pt;}*/
+}

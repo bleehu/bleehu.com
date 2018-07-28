@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<title>DnD - Rules</title>
+		<link href="loot.css" rel="stylesheet" type="text/css">
+		<link rel="icon" href="../images/sword.ico" type="image/x-icon">
+	</head>
+<body>
+	<h1> Rules </h1>
+	<div id="container">
+		<div id="contents">
+		<h3>Contents</h3>
+			<ul>
+				<li><a href="#grab">Grab</a></li>
+				<li><a href="#flying">Flying</a></li>
+				<li><a href="#fmove">Forced Movement</a></li>
+				<li><a href="#rest">Rest</a>
+					<ul>
+						<li><a href="#sRest">Short Rest</a></li>
+						<li><a href="#eRest">Extended Rest</a></li>
+					</ul>
+				</li>
+				<li><a href="#ongoing">Ongoing</a></li>
+				<li><a href="#surprise">Surprise Rounds</a></li>
+				<li><a href="#mile">Milestones</a></li>
+				<li><a href="#conditions">Conditions</a>
+					<ul>
+						<li><a href="#blinded">Blinded</a></li>
+						<li><a href="#dazed">Dazed</a></li>
+						<li><a href="#dying">Dying</a></li>
+						<li><a href="#helpless">Helpless</a></li>
+						<li><a href="#immobilized">Immobilized</a></li>
+						<li><a href="#marked">Marked</a></li>
+						<li><a href="#prone">Prone</a></li>
+						<li><a href="#slowed">Slowed</a></li>
+						<li><a href="#stunned">Stunned</a></li>
+						<li><a href="#surprised">Surprised</a></li>
+						<li><a href="#unconscious">Unconscious</a></li>
+						<li><a href="#weakened">Weakened</a></li>
+						<li><a href="#invisible">Invisible</a></li>
+					</ul>
+				</li>
+				<li><a href="armory.html">Custom Powers</a></li>
+				<li><a href="standard.html">Standard Powers</a></li>
+			</ul>
+		</div>
+		<!--Main Link Bar-->
+		<div class="content" id="toolbar">
+			<a href="../followers.php" title="To experimental Follower coordination center"> 
+				<img src="../images/follower%20button.png" alt="Followers"/>
+			</a> 
+			<a href="../rules/rules.html" title="To The Rules Index"> 
+				<img src="../images/rules%20button.png" alt="Rules"/>
+			</a>
+			<a href="../adventures/adventures.php" title = "To ADVENTURE!!!!">
+				<img src="../images/adventure%20button.png" alt="ADVENTURE!"/>
+			</a>
+			<a href="../past/pclore.html" title = "To Player Character Lore">
+				<img src="../images/player%20button.png" alt="Player Character Lore"/>
+			</a>
+			<a href="../past/flore.html" title = "To Follower Lore">
+				<img src="../images/follower%20lore%20button.png" alt="Follower Lore"/>
+			</a>
+			<a href="../tychicus/tychicus.html" title = "To The Home Country!">
+				<img src="../images/tychicus%20button.png" alt="To The Home Country!"/>
+			</a>
+			<a href="../index.php" title = "To The Home Country!">
+				<img src="../images/world%20map%20button.png" alt="To The Home Country!"/>
+			</a>
+			<a href="../past/past.php" title = "To The records of Past Contracts!">
+				<img src="../images/past%20button.png" alt="To The Past!"/>
+			</a>
+		</div>
+		<!--Rule Pages Link Bar-->
+		<div class="content">
+			<ul class="linkList">
+				<li><a href="rules.html" alt="The Rules of Adventures">Rules
+					</a></li>
+				<li><a href="standard.html" alt="Powers that all characters 
+					have">Standard Powers</a></li>
+				<li><a href="armory.html" alt="Powers awarded to individual 
+					characters">Custom Powers</a></li>
+			</ul>
+		</div>
+		<div class="rule" id="grab">
+			<h3>Grab</h3>
+			<p>By using the grab power, any creature can try to seize a target bodily and keep it from moving. 
+				Although class powers and monster powers are usually more effective than grab at locking a target 
+				down, the advantage of grab is that anyone can use it, regardless of class.</p>
+			<h4>GRAB: STANDARD ACTION</h4>
+			<p>Target: You can attempt to grab a creature that is smaller than you, the same size category as you, or
+				one category larger than you. The creature must be within your melee reach (don’t count extra reach
+				from a weapon).</p>
+			<p>Strength Attack: Make a Strength attack vs. Reflex. Do not add any weapon modifiers. 
+				You must have at least one hand free to make a grab attempt. Hit: The enemy is immobilized 
+				until it escapes or you end the grab. Your enemy can attempt to escape on its turn.</p>
+			<p>Sustaining a Grab: You sustain a grab as a minor action. You can end a grab as a free action.</p>
+			<p>Effects that End a Grab: If you are affected by a condition that prevents you from taking 
+				opportunity actions (such as dazed, stunned, surprised, or unconscious), you immediately let go of a 
+				grabbed enemy. If you move away from the creature you’re grabbing, you let go and the grab ends. 
+				If a pull, a push, or a slide moves you or the creature you’re grabbing out of your reach, 
+				the grab ends.</p>
+			<p>A creature can try to move a target it is grabbing, whether or not it used the grab power to grab the target.</p>
+			<h3>Move a Grabbed Target</h3>
+			<h4>Action: Standard action.</h4>
+			<p>Strength Check: The creature makes a Strength check opposed by the Fortitude of a target it is grabbing. 
+				The check automatically succeeds if the target is a helpless ally of the creature.</p>
+			<p>Success: The creature can move up to half its speed and pull the target with it. The creature’s 
+				movement doesn’t provoke an opportunity attack from the grabbed target, but the movement otherwise 
+				provokes opportunity attacks as normal.</p>
+			<h3>Escape a grab</h3>
+			<h4>Action: Move action.</h4>
+			<p>You make can make an Acrobatics check vs. grabbing enemy’s Reflex or 
+				an Athletics check vs. grabbing enemy’s Fortitude. If you succeed, 
+				you escape the grab and can shift 1 square.</p>
+			<p>A grab also ends if the creature grabbing you is affected by a 
+				condition that prevents it from taking opportunity actions 
+				(such as dazed, stunned, surprised, or unconscious). If the grabber 
+				moves away from the you without dragging, it lets go and the grab 
+				ends. If a pull, a push, or a slide moves you or the creature that 
+				is grabbing you so that it is no longer adjacent to you, the grab 
+				also ends.</p>
+		</div>
+		<div class="rule" id="flying">
+		<h3>Flying</h3>
+		<p>Some creatures have the innate ability to fly, whereas others gain the ability through powers, magic items, 
+		or other attributes. The rules for flight emphasize abstraction and simplicity over simulation. In real life, a 
+		flying creature’s ability to turn, the speed it must maintain to stay aloft, and other factors put a strict limit 
+		on flight. In the game, flying creatures face far fewer limitations.
+		Flight follows the basic movement rules, with the following clarifications. </p>
+		<p>Fly Speed: To fly, a creature takes the walk, run, or charge action but uses its fly speed in place of its 
+		walking speed. A creature that has a fly speed can also shift and take other move actions, as appropriate, 
+		while flying.</p>
+		<p>Moving Up and Down: While flying, a creature can move straight up, straight down, or diagonally up or down.
+		There is no additional cost for moving up or down.</p>
+		<p>Falling Prone: If a creature is knocked prone while it is flying, it falls. This means a flying creature 
+		falls when it becomes unconscious or is subject to any other effect that knocks it prone. The creature isn’t 
+		actually prone until it lands and takes falling damage.</p>
+		<p>Remaining in the Air: A flying creature does not need to take any particular action to remain aloft; the 
+		creature is assumed to be flying as it fights, moves, and takes other actions. However, a flying creature 
+		falls the instant it is stunned, unless it can hover (see "Flight Traits").</p>
+		<p>Landing: If a creature flies to a surface it can hold onto or rest on, the creature can land safely.</p>
+		<p>Terrain: Terrain on the ground does not affect a flying creature if the terrain isn’t tall enough to reach
+		it. Because of this rule, flying creatures can easily bypass typical difficult terrain, such as a patch of 
+		ice on the ground. Aerial terrain (see below) can affect flying creatures.</p>
+		<h4>Flight Traits</h4>
+		<p>Many flying creatures have traits related to flight, which are noted in a creature’s stat block.</p>
+		<p>Altitude Limit: If a creature has a specified altitude limit, the creature falls at the end of its 
+		turn if it is flying higher than that limit. For example, a creature that has an altitude limit of 2 falls 
+		at the end of its turn if it is flying higher than 2 squares.</p>
+		<p>Hover: A creature that can hover, such as a beholder, can remain in the air even when it is stunned.</p>
+		<h4>Aerial Terrain</h4>
+		<p>Difficult terrain for a flying creature includes airborne debris, swirling winds, and other factors 
+		that interfere with flight, including surface features that reach to a great height. Clouds provide 
+		concealment, while towers, floating castles, and other structures provide cover. Strong gusts of wind 
+		work like currents in water, following the rules under “Current".</p>
+		</div>
+		<div class="rule" id="fmove">
+			<h3>Forced Movement</h3>
+			<p>Certain powers and effects allow a creature to move a target forcibly, whether the target is willing or 
+				unwilling. (Other effects, such as traps or zones, can also force targets to move.) The three kinds of 
+				forced movement are pull, push, and slide. Teleporting a creature does not count as forced movement for 
+				the purpose of these rules.</p>
+			<ul>
+			 <li>Pull: Pulling a target means that each square of the forced movement must bring the target closer to 
+				the creature or effect that is pulling it.</li>
+			 <li>Push: Pushing a target means that each square of the forced movement must move the target farther away 
+				from the creature or effect that is pushing it.</li>
+			 <li>Slide: Sliding a target can move it in any direction. Sometimes a creature can swap places with a 
+				target. Doing so is a special kind of slide; the creature slides the target into its space and then 
+				shifts so that its space includes at least 1 square that the target just left.</li>
+			 </ul>
+			<p>The following rules govern all three kinds of forced movement. A particular instance of forced movement 
+				might contain exceptions to these rules.</p>
+			<p>Distance, Specific Destination, or Both: The power or other effect that produces forced movement specifies 
+				a distance in squares, a specified destination square, or both for the movement.
+				When a distance is specified, it is a maximum; the creature or effect producing the forced movement can 
+				move its target up to that number of squares (or none at all). For instance, a character’s power might 
+				say, “You slide the target 4 squares (or “up to 4 squares”); both mean the character can move the target 
+				up to 4 squares or not move it at all.
+				When a destination is specified, it is absolute; the creature or effect must either move the target to 
+				that destination or not move it at all. Often a destination is combined with a distance, which means the 
+				target can be moved to the destination only if it is no farther away than the specified distance. For 
+				instance, a character’s power might say, “You slide the target up to 5 squares to a square adjacent to 
+				you (or “5 squares to a square adjacent to you),” both of which mean the character can move the target 
+				up to 5 squares but only if the move ends in a square adjacent to that character.</p>
+			<p>Line of Effect: A creature must have line of effect to any square that it pulls, pushes, or slides a 
+				target into. Also, a target cannot be forced through blocking terrain.</p>
+			<div class="houseRule">
+				<img src="../images/house.png" />
+				<h4> House Rule: </h4>
+				<p> Targets pushed into blocking terrain take 1d10 per square pushed into blocking terrain.</p>
+			</div>
+			<p>Ignores Difficult Terrain: Forced movement isn’t hindered by difficult terrain.</p>
+			<p>Ignores Speed: A target’s speed is irrelevant to the distance it is forced to move, and the target 
+				expends none of its own actions for the movement.</p>
+			<p>Destination Space: The destination of the forced movement must be an unoccupied space that is at least 
+				the same size as the target. For instance, a Large creature cannot be pushed into a space that is only 1
+				square wide.</p>
+			<p>No Opportunity Actions Triggered: When a target is pulled, pushed, or slid, it does not trigger 
+				opportunity actions, such as opportunity attacks, that are triggered by movement.</p>
+			<p>Catching Oneself: If a target is forced over a precipice or into hindering terrain, such as lava or a 
+				pit, the target can immediately make a saving throw to avoid going over the edge or entering that 
+				terrain. If the creature saves, it falls prone in the last square it occupied before it would have 
+				fallen or entered the terrain. Otherwise, it falls over the edge or enters the terrain. Once the saving 
+				throw is resolved, the forced movement ends.</p>
+			<p>Two-Dimensional: Forced movement is normally two-dimensional; all the squares of the movement must be on 
+				the same horizontal plane. Forced movement can become three-dimensional when the target is flying, 
+				is moved through a substance such as water, or is on a non-horizontal surface, such as an incline, 
+				that supports it. This means an earthbound target cannot normally be pushed to a square in the air, but a 
+				hovering target can be. Similarly, a target can be pulled down a flight of stairs, and it can be slid in
+				any direction underwater.</p>
+			<div class="houseRule">
+				<img src="../images/house.png" />
+				<h4> House Rule: </h4>
+				<p> Targets can be slid up or down at any time.</p>
+			</div>
+			<p>Immobilized or Restrained: Being immobilized doesn’t prevent a target from being pulled, pushed, or slid,
+				but being restrained does. See “Conditions" for more.</p>
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+		<div class="rule" id="rest">
+			<h3 id="sRest">Short Rest</h3>
+			<p>A short rest allows a creature to regain the use of encounter powers and spend healing surges to 
+				regain hit points. Short rests follow these rules.</p>
+			<p>Duration: A short rest is about 5 minutes long.</p>
+			<p>No Limit per Day: A creature can take an unlimited number of short rests per day.</p>
+			<p>No Strenuous Activity: Resting means just that. The creature can stand guard, sit in place, 
+				ride on a wagon or other vehicle, or do other tasks that don’t require much exertion.</p>
+			<p>Regain the Use of Powers: After a short rest, a creature regains the use of expended 
+				encounter powers.</p>
+			<p>Spend Healing Surges: After a short rest, a creature can spend as many healing surges as desired
+				(see “Hit Points and Healing,” page 255). A creature that runs out of healing surges must take an 
+				extended rest to regain them.</p>
+			<p>Using Powers during the Rest: If a creature uses an encounter power (such as a healing power) during 
+				a short rest, it needs another short rest to regain the use of that power.</p>
+			<p>Interruptions: If a creature’s short rest is interrupted, the creature needs to rest for another
+				5 minutes to get the benefits of a short rest.</p>
+			<p><a href="#contents"> Back to top </a></p>
+			<h3 id="eRest">Extended Rest</h3>
+			<p>Duration: An extended rest is at least 6 hours long.</p>
+			<p>Once per Day: After a creature finishes an extended rest, it has to wait 12 hours before 
+				beginning another one.</p>
+			<p>No Strenuous Activity: A creature normally sleeps during an extended rest but doesn’t have to. 
+				The creature can engage in light activity that doesn’t require much exertion.</p>
+			<p>Regain Hit Points and Healing Surges: At the end of an extended rest, a creature regains all lost 
+				hit points and all spent healing surges.</p>
+			<p>Regain the Use of Powers: At the end of an extended rest, a creature regains the use of expended 
+				encounter powers and daily powers.</p>
+			<p>Action Points: At the end of an extended rest, a creature loses any unspent action points, but starts 
+				fresh with 1 action point.</p>
+			<p>Interruptions: If anything interrupts a creature’s extended rest, such as an attack, add the time 
+				spent dealing with the interruption to the total time the creature needs to spend in the extended 
+				rest.</p>
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+		<div class="rule" id="ongoing">
+			<h3>Ongoing Damage</h3>
+			<p>Some powers deal damage on consecutive turns after the initial attack. 
+				Such damage is called ongoing damage. An efreet might hit a creature 
+				with a burst of fire that sets it alight, dealing ongoing fire damage. 
+				When a snake’s venom courses through a creature’s blood, it deals 
+				ongoing poison damage. A royal mummy’s plague chant deals ongoing 
+				necrotic damage.</p>
+			<p>Start of a Creature’s Turn: When a creature is subjected to ongoing 
+				damage, it does not take the damage right away. Instead, the creature 
+				takes the specified damage at the start of each of its turns until the 
+				ongoing damage ends. For instance, a creature that is subjected to 
+				ongoing 5 fire damage takes 5 fire damage at the start of each of its 
+				turns.</p>
+			<p>Save Ends: Unless otherwise noted, an instance of ongoing damage lasts 
+				on a creature until the creature makes a successful saving throw 
+				against it. See “Saving Throws". </p>
+			<p>Different Types of Ongoing Damage: If a creature is subjected to ongoing 
+				damage of different types (including no type) at the same time, it 
+				takes damage of each of those types every round, and it must make a 
+				separate saving throw against each damage type.</p>
+			<p>Example: If a creature is taking ongoing 5 damage (which has no type) 
+				when a power causes it to take ongoing 5 lightning damage, it is now 
+				taking ongoing 5 damage and ongoing 5 lightning damage, and it must 
+				make saving throws against each effect.</p>
+			<p>Same Type of Ongoing Damage: If a creature is subject to multiple 
+				instances of ongoing damage of the same type at the same time 
+				(including no type), only the highest number applies.</p>
+			<p>Example: If a creature is taking ongoing 5 damage (which has no type) 
+				when a power causes it to take ongoing 10 damage, the creature is now 
+				taking ongoing 10 damage, not 15.</p>
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+		<div class="rule" id="surprise">
+			<h3>Surprise Round</h3>
+			<p>Some combat encounters begin with a surprise round, which occurs if 
+				any creatures are caught completely off guard at the start of 
+				battle. If even one creature is surprised, a surprise round occurs, 
+				and all creatures that aren’t surprised act in initiative order 
+				during that round. Surprised creatures can’t act at all during the 
+				surprise round.</p>
+			<p>Special Rules Two special rules apply to the surprise round.</p>
+			<ul>
+				<li>Limited Action: If a creature is not surprised, it can take 
+					only one of the following actions on its turn during the 
+					surprise round: a standard action, a move action, or a minor 
+					action. The creature can also take free actions, but it cannot 
+					spend an action point. During the surprise round (but not on its
+					turn), the creature can take an immediate action, as well as 
+					opportunity actions. See “Action Types” for definitions of these
+					terms. After every creature that is not surprised has acted, 
+					the surprise round ends, and creatures can act normally in 
+					subsequent rounds.</li>
+				<li>Surprised: If a creature is surprised, it can’t take any actions,
+					not even free actions, during the surprise round. The creature 
+					also grants combat advantage. As soon as the surprise round ends,
+					the creature is no longer surprised. Surprised is one of many 
+					conditions that can be applied to a creature. See 
+					<a href="#surprised" title="Surprised">“Conditions”.</a></li>
+			</ul>
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+		<div class="rule" id="mile">
+			<h3>Milestones and Quests</h3>
+			<p>As adventurers move from one encounter to another on their way to gaining the next level, they reach milestones and complete quests.</p>
+			<p><strong>Milestones:</strong> When the adventurers complete two consecutive encounters without 
+				stopping for an <em>extended</em> rest, they reach a milestone. Each time they reach a 
+				milestone, each adventurer gains an action point. The DM might provide additional
+				rewards, depending on the adventure and the style of the campaign.</p>
+			<p><strong>Quests:</strong> Quests are the fundamental story framework of an adventure—the reason the 
+				adventurers want to get involved. They are why an adventure exists, and they indicate
+				what the adventurers need to do to resolve the situation the adventure presents.</p>
+			<p>A quest connects a series of encounters into a meaningful story. The simplest 
+				adventures revolve around a single major quest, usually one that gives everyone in 
+				the group a motivation to pursue it. For example, a group’s major quest might be to 
+				put an end to the goblin raids on a local village, to rescue a kidnapped merchant, 
+				or to recover an ancient relic lost in the nearby ruins.</p>
+			<p>Most adventures, however, involve multiple quests. An adventure might have two or 
+				more major quests. For example, the goblin raiders might also be responsible for 
+				kidnapping an important merchant. Adventures often also include minor quests that 
+				relate to individual characters’ goals or backgrounds. Sometimes these quests can 
+				conflict with each other, presenting characters with interesting choices about which 
+				quests to pursue.</p>
+			<p>When the group completes a quest, each character earns experience points and 
+				possibly other kinds of rewards, depending on the quest.</p>
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+		<div class="rule" id="conditions">
+			<h3>Conditions</h3>
+			<p>Powers, monsters, traps, and the environment can all
+				cause conditions. A condition imposes various penalties.</p>
+			<h4 id="blinded">Blinded</h4>
+			<ul>
+				<li>You grant combat advantage.</li>
+				<li>You can’t see any target (your targets have total concealment).</li>
+				<li>You take a –10 penalty to Perception checks.</li>
+				<li>You can’t flank an enemy.</li>
+			</ul>
+			<h4 id="dazed">Dazed</h4>
+			<ul>
+				<li>You grant combat advantage.</li>
+				<li>You can take either a standard action, a move action,
+					or a minor action on your turn (you can also take free
+					actions). You can’t take immediate actions or opportunity
+					actions.</li>
+				<li>You can’t flank an enemy.</li>
+			</ul>
+			<h4 id="dying">Dying</h4>
+			<ul>
+				<li>You’re unconscious.</li>
+				<li>You’re at 0 or negative hit points.</li>
+				<li>You make a death saving throw every round</li>
+			</ul>
+			<h4 id="helpless">Helpless</h4>
+			<ul>
+				<li>You grant combat advantage.</li>
+				<li>You can be the target of a coup de grace.</li>
+			</ul>
+			<h4 id="immobilized">Immobilized</h4>
+			<ul>
+				<li>You can’t move from your space, although you can teleport
+					and can be forced to move by a pull, a push, or a
+					slide.</li>
+			</ul>
+			<h4 id="marked">Marked</h4>
+			<ul>
+				<li>You take a –2 penalty to attack rolls for any attack that
+					doesn’t target the creature that marked you.</li>
+			</ul>
+			<h4 id="prone">Prone</h4>
+			<ul>
+				<li>You grant combat advantage to enemies making melee
+						attacks against you.</li>
+				<li>You get a +2 bonus to all defences against ranged attacks
+						from nonadjacent enemies.</li>
+				<li>You’re lying on the ground. (If you’re flying, you safely
+						descend a distance equal to your fly speed. If you don’t
+						reach the ground, you fall.)</li>
+				<li>You take a –2 penalty to attack rolls.</li>
+				<li>You can drop prone as a minor action.</li>
+			</ul>
+			<h4 id="slowed">Slowed</h4>
+			<ul>
+				<li>Your speed becomes 2. This speed applies to all your
+					movement modes, but it does not apply to teleportation
+					or to a pull, a push, or a slide. You can’t increase your
+					speed above 2, and your speed doesn’t increase if it was
+					lower than 2. If you’re slowed while moving, stop moving
+					if you have already moved 2 or more squares.</li>
+			</ul>
+			<h4 id="stunned">Stunned</h4>
+			<ul>
+				<li>You grant combat advantage.</li>
+				<li>You can’t take actions.</li>
+				<li>You can’t flank an enemy.</li>
+			</ul>
+			<h4 id="surprised">Surprised</h4>
+			<ul>
+				<li>You grant combat advantage.</li>
+				<li>You can’t take actions, other than free actions.</li>
+				<li>You can’t flank an enemy.</li>
+				<div class="houseRule">
+					<img src="../images/house.png" />
+					<h4> House Rule: </h4>
+					<p> A Surprised character cannot use a free action to speak.</p>
+				</div>
+			</ul>
+			<h4 id="unconscious">Unconscious</h4>
+			<ul>
+				<li>You’re helpless.</li>
+				<li>You take a –5 penalty to all defences.</li>
+				<li>You can’t take actions.</li>
+				<li>You fall prone, if possible.</li>
+				<li>You can’t flank an enemy.</li>
+			</ul>
+			<h4 id="weakened">Weakened</h4>
+			<ul>
+				<li>Your attacks deal half damage. Ongoing damage you
+					deal is not affected.</li>
+			</ul>
+			<h4 id="invisible">Invisible</h4>
+			<ul>
+				<li>You can’t be seen by normal forms of vision.</li>
+				<li>You have combat advantage against any enemy that
+					can’t see you.</li>
+				<li>You don’t provoke opportunity attacks from enemies
+					that can’t see you.</li>
+			</ul>
+			<div class="houseRule">
+				<img src="../images/house.png" />
+				<h4> House Rule: Drunk </h4>
+				<ul>
+					<li>You take a -2 penalty to attack rolls</li>
+					<li>You get a +2 bonus to damage rolls.</li>
+					<li>You take a -2 penalty to perception and insight checks.</li>
+				</ul>
+			</div>
+			<div class="houseRule">
+				<img src="../images/house.png" />
+				<h4> House Rule: Panicked </h4>
+				<ul>
+					<li>If a creature fails three consecutive intimidation saves,
+						it must save against getting panicked.</li>
+					<li>You must run away from what panicked you.</li>
+					<li>You take a -2 penalty to attack rolls.</li>
+				</ul>
+			</div>
+			
+			<p><a href="#contents"> Back to top </a></p>
+		</div>
+	</div>
+	<div id="toolbar">
+		<a href="../index.php" title="back to the world"> 
+			<img src="../images/world map button.png" alt="world map"/>
+		</a>
+	</div>
+</body>
+</HTML>

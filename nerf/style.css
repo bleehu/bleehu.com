@@ -1,0 +1,12 @@
+body				{background-color:#0B1D19;}
+h1,p				{text-align:center; color:#22ee22;}
+
+.logo			{width:120px;}
+
+#map			{margin-left:auto; margin-right:auto;
+					width:80%; display:block;}
+#toolbar		{width:60%; margin-left:auto; margin-right:auto; background-color:#777777;}
+#toolbar img		{border: 2px solid #00ee00;}
+#toolbar, #map	{border: 2px solid #00ee00;}
+#echo, #ark		{background-color:#white; width:120px;}
+#ark			{margin-bottom:15px;}

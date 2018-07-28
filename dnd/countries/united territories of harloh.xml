@@ -1,0 +1,53 @@
+<harlohterritory>
+	<name> United Territories Of Harloh </name>
+	<body> Comprised of the majority of the old Empire of light, UTAH is an empire ruled with an iron fist by the council of Harloh.  They were assisted in their efforts to expand by the Spyderclaw clan of dragonborn.  Upon refusing to help them, the Smokescales were attacked and ousted from their ancestral home and all known survivors now live in Tychicus.  Little else is known about the situation in UTAH.</body>
+	<cities>
+		<Hancock> 
+			<city> Hancock </city>
+			<description>All that remains of this city is ashes.</description>
+		</Hancock>
+		<Hailey> 
+			<city> Hailey </city>
+			<description>All that remains of this city is ashes.</description>
+		</Hailey>
+		<Heath> 
+			<city> Heath </city>
+			<description>All that remains of this city is ashes.</description>
+			</Heath>
+		<Capitol>
+			<city> Capitol </city>
+			<description>
+			Capitol is a beautiful city, it was once the capitol of the known world, part of an empire that controlled even the Fey world with its power.  Wood and stone blend seemlessly in the streets of the city.  Elven woodsingers and dwarven stonemasons worked together for 200 years until it was completed. Much of the city was ruined during the war.  
+			</description>
+		</Capitol>
+		<Dorgon>
+			<city> Dorgon </city>
+			<description> Built directly on a lake Dorgon has a natural moat around it, in the time since the war started Dorgon had defended itself to multiple invasions, before finally succumbing to the ever spreading magic of Harloh.</description>
+		</Dorgon>
+		<Logil> 
+			<city> Logil </city>
+			<description> Logil was a thriving trade city before the war, primarily a stop for travellers, its residents specialized in hospitality.  It has since been covered by the magic of Harloh, and as such, has ceased to exist. </description>
+		</Logil>
+		<Krin>
+			<city> Krin </city>
+			<description>Filled with refugees from the rest of UTAH, it will soon be taken by the magic of Harloh, although many of its residents think that would be a better fate then what awaits them to the south.</description>
+		</Krin>
+		<Rorgath> 
+			<city> Rorgath </city>
+			<description> Rorgath has been taken by the magic of Harloh.</description>
+		</Rorgath>
+		<Vargo> 
+			<city> Vargo </city>
+			<description> One of few surviving port cities, Vargo has few ships left.  All of its ships that set sail for University Capitol disappear, and so its people are trapped between the University and the magic of Harloh.</description>
+		</Vargo>
+		<Tear>
+			<city> Tear </city>
+			<description> A city that once belonged to the Eladrin, it is controlled by UTAH now.  Few live here.  All previous residents escaped or were put to death.</description>
+		</Tear>
+		<Harloh> 
+			<city> Harloh </city>
+			<description>Ruled by a council, Harloh used to be the ideal of democracy.  They are still ruled by a council, but now the people are trapped by their own existence.  A powerful wizard rules the council, and the council rules its non-existent people.  By all reports the magic is spreading out from the city slowly.  Few know the name of the wizard, and fewer could tell if they wanted to.
+			</description>
+		</Harloh>
+	</cities>
+</harlohterritory>

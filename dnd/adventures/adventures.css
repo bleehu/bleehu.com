@@ -1,0 +1,22 @@
+body 		{background-image:url('../images/Rock Floor.png')}
+h1			{font-size:32px; text-align:center; background-color:#aaaaaa;}
+textarea		{cols:54; rows:30;}
+
+.bld		{font-weight:bold; font-size:18px;}
+.em			{font-style:italic;}
+.content	{background-image:url('../images/Light Wood.png'); background-repeat:repeat; 
+				width:80%; padding:3px; margin-top: 2px; margin-left:auto; 
+				margin-right:auto; border:solid 1px black;}
+.adventure	{width:95%; max-width:460px; padding:3px;
+				background-color:rgb(232, 186, 109); border: 2px solid #A33E00;}
+.adventure p {max-width: 380px; text-indent:18px;}
+.solo		{background-color:#E09431;}
+.post		{background-color:rgb(232, 186, 109); padding:3px; max-width:540px;
+				margin-top:3px; margin-left:6px; border: 2px solid #A33E00;}
+.post p		{margin-top: 2px;}
+	
+#toolbar	{ min-width: 400px;}
+#adventures { height:500px; min-width:540px; overflow: scroll;}
+#days {height:500px; min-width: 540px;}
+#suggestions {height: 500px; min-width: 540px; overflow: visible;}
+#loginBar	{background-color:rgb(232, 186, 109); border: 2px solid #A33E00;}

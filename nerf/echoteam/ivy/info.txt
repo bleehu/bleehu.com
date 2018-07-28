@@ -1,0 +1,4 @@
+Poison Ivy
+Echo 14
+An adaptive agent, Ivy works excelent as part of a squad or pack. She has light experience in medium-range urban combat, and operates as a fearless zombie.
+Poison Ivy and <a href="agent.php?agent=grasshopper">Agent Grasshopper</a> both ran with Echo Horde during the final mission in Spring '13. The two work especially well together.

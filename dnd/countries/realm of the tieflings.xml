@@ -1,0 +1,10 @@
+<tieflingrealm>
+	<name> Realm of the Tieflings</name>
+	<body> Tieflings are a secluded race, many preferring a nomadic life rather than settling down.  They protect their borders with their fierce magic but show no ambition for more land.  No word on the political situation there.  Before the war King Deshran was in power.
+	</body>
+	<cities>
+		<nocity> <city> There are no Tiefling Cities </city>
+		</nocity>
+	</cities>
+</tieflingrealm>
+	

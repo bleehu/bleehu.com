@@ -1,0 +1,1 @@
+The Stampede is a fully-automatic full-length assault rifle. While the clip that comes with it doesn't have the capacity of a <a href="#vulcan"> Vulcan </a>, its rate-of-fire is quicker and drum magazines can be acquired.Currently, only <a href="agent.php?agent=ringtail">Ardent Ringtail</a> is the only operative to use the Stampede.

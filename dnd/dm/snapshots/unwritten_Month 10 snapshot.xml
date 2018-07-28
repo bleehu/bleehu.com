@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<root>
+<contract title="Tick Tick" roll="8"><prompt>
+			Continue Research at the arcane College on time-delay detonation packages.
+			Specifically ones that are a little less gargantuan.
+		</prompt><followers>Remera and Lorani, Roscoe, </followers></contract><contract title="Hammer Time" roll="7"><prompt>
+			Begin research on improving Kriv's hammer to have gravity-modulating effects.
+		</prompt><followers>Shadow, </followers></contract><contract title="It's Called a what?" roll="7"><prompt>
+			Begin research on the non-detection cloak.
+		</prompt><followers>Dexter, </followers></contract><contract title="Now You Don't" roll="7"><prompt>
+			Continue Research at the arcane College the Invisibility cloaks. A longer duration would be nice.
+		</prompt><followers>Gregory, </followers></contract><contract title="Going Green" roll="8"><prompt>
+			The UGK has entered an uneasy alliance with us. Let's see if that alliance could include some trade agreements.
+		</prompt><followers>Corinc, </followers></contract><contract title="Settle The Scorched Lands" roll="4"><prompt> The lands that the fire titan Coeus used to occupy now belongs to Tychicus,
+			but no permanent Tychian establishment exists on Tychicus. In Jaroarfor, Villages must
+			be built before towns. Towns before military camps or cities. Cities before forts. </prompt><followers>Desaric, </followers></contract><contract title="The Corriolis Effect" roll="8"><prompt>Go to the Ninja Dojo and begin research on very long range 
+			crossbows!</prompt><followers>Mattemeo, </followers></contract><contract title="Scout The Aviary" roll="75"><prompt>Our northern neighbors are enigmatic at the moment. Let's see what
+			they're up to.</prompt><followers>Rex, Fai, Evynne, Rorre, Gardonazorph, Stasi, Aramil, </followers></contract><contract title="Scout The Assembly" roll="9"><prompt>In Jaroarfor, our southern border is dominated by a race of sentient
+			arcanic constructs, or so the rumor goes. The tribe of Razorin says that they're
+			quite unfriendly. Let's see if the rumors are true.</prompt><followers>Hess, Larko, </followers></contract><contract title="Construct the Temple" roll="17"><prompt>The Country needs a center for it's clerics and paladins. Also, a monument to the 
+			diety got us this far is well in order. Select a construction site and get building!
+			(the player that takes this contract first chooses what city it's built in).
+			</prompt><followers>Suuth, Kimoto, </followers></contract><contract title="Construct the Theater" roll="18"><prompt>A center for Bards to hang out would be ideal as well. Grab some nails and
+			a planks of wood and get started. (The first player who takes this contract will
+			decide which city to build it in).
+			</prompt><followers>Marindred, </followers></contract><contract title="Interrogate Enemy" roll="69"><prompt>During his solo op in Gnomerigon, Geoff captured an enemy assassin with
+			likley ties to the an enemy assassin's guild. The prisoner could have very valuable
+			information. Or she might try to break out and kill everyone. Should be interesting.
+			It should be noted that the assassin is wanted in Gnomerigon for committing a massacre.
+			If we keep holding her, they might not like that we stole her away.
+			</prompt><followers>Balasaar, Kriv, Treklor, Heiam, Geoff, Wildlovelies, </followers></contract><contract title="Scout The Aviary" roll="60"><prompt>Our northern neighbors are enigmatic at the moment. Let's see what
+			they're up to.</prompt><followers>Rex, Fai, Evynne, Rorre, Gardonazorph, Stasi, Aramil, </followers></contract></root>

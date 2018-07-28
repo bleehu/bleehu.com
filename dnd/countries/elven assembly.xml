@@ -1,0 +1,26 @@
+<Elven>
+	<name> Elven Assembly</name>
+	<body> The elves were allied with the Empire of Light, and are now at war with UTAH.  Their wizards are attempting to find some way to fight the magic of Harloh.  The borders have been far too quite recently. </body>
+	<cities> 
+		<Arc> 
+			<city> Arc </city>
+			<description> A newer race of elves, the arc elves are lovers of life.  Arc elves all live every day like it was their last, and are the only known elves that can hold their drink better than dwarves.  They are brilliant craftsmen, and have recently proved themselves to be exemplary blacksmiths as well to supply themselves and their elven brethren with weapons.  Although not as magically gifted as their brethren they are much greater in number.  
+			</description>
+			</Arc>
+		<Dark> 
+			<city> Dark </city>
+			<description> The dark elves recently left their home in the UnderDark, rejoining their brethren in the sun.  They refuse to say why. 
+			</description>
+		</Dark>
+		<Wood> 
+			<city> Wood </city>
+			<description> Wood elves love nature, and tend to live in the trees.  The best sung wood in the world comes from the elves.  They are masters of all kinds of nature magic, although they are few in number because of reclusive tendencies. 
+			</description>
+			</Wood>
+		<Ancient> 
+			<city> Ancient </city>
+			<description> Close brethren with the eladrin ancient elves possess great magic, although many of their greatest wizards are missing.
+			</description>
+			</Ancient>
+	</cities>
+</Elven>

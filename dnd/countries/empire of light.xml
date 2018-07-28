@@ -1,0 +1,10 @@
+<LightEmpire>
+	<name> Empire of LIght </name>
+	<body> An ancient empire, it was the result of the last Great War, so it is only fitting that this war would tear it apart.  There is no one clearly in power in the Empire of Light. Many are vying for power every moment, and in the meantime their soldiers try to halt the advance of Harloh</body>
+	<cities>
+		<Light> 
+			<city> Light </city>
+			<description>The ancient capitol of the Empire of Light, no one has lived in the city for more than a century.  The city is crumbling around its inhabitants.  The masons of the Empire of Light are trying to fix the city, but they are too few.  The city will likely be dust before the enemy even reaches its doorstep.
+			</description></Light>
+	</cities>
+</LightEmpire>

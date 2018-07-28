@@ -1,0 +1,11 @@
+<Eladrin> 
+	<name> Eladrin Republic </name>
+	<body> A small force protects the weyGate from UTAH.  Other than protecting their borders the eladrin seem to have no interest in this plane.</body>
+	<cities> 
+		<WeyGate> 
+			<city> WeyGate </city>
+			<description>A gate into the Fey, it leads into the lands of the eladrin. 
+			</description>
+		</WeyGate>
+	</cities>
+</Eladrin>

@@ -1,0 +1,14 @@
+<dargeenbaron>
+	<name> Dargeenbaron</name>
+	<body> After the fight between the Smokescales and the Spyderclaws the remaining dragonborn tribes fled here to regroup.  They have since banded together against the threat of Harloh, rebuilding and renaming the cities of Dargeen and Baron.</body>
+	<cities>
+		<dargeen> 
+			<city> Dargeen </city>
+			<description> This city was destroyed in the war, it laid in ruins until the remaining dragonborn took it as their home.  It is now the headquarters of many of their tribes.</description>
+		</dargeen>
+		<baron> 
+			<city> Baron </city>
+			<description> Primarily a defensive outpost, this city is all about the military.  The surrounding farms grow enough to feed the soldiers, the mines get enough metal to arm the soldiers, and almost everything sold in town is equipment for the soldiers. </description>
+		</baron>
+	</cities>
+</dargeenbaron>

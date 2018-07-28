@@ -1,0 +1,22 @@
+---|---|---
+Month 8:Northern Mine profit|20000|$115000
+Month 8:National Bank interest|20000|$135000
+Month 8:Mt. Ebal ninja dojo upkeep|-20000|$115000
+Month 8:Magic Academy upkeep|-10000|$105000
+Month 8:Kedesh Woodshop Upkeep|-15000|$90000
+Diamonds From "The Cave"|15000|$105000
+---|---|---
+Month 9:Northern Mine profit|20000|$125000
+Month 9:National Bank interest|20000|$145000
+Month 9:Mt. Ebal ninja dojo upkeep|-20000|$125000
+Month 9:Magic Academy upkeep|-10000|$115000
+Month 9:Kedesh Woodshop Upkeep|-15000|$100000
+Month 9:Northern Mine profit|20000|$120000
+---|---|---
+Month 10:Northern Mine profit|20000|$155000
+Month 10:National Bank interest|20000|$175000
+Month 10:Mt. Ebal ninja dojo upkeep|-20000|$155000
+Month 10:Magic Academy upkeep|-10000|$145000
+Month 10:Kedesh Woodshop Upkeep|-15000|$130000
+Month 10:Internal Trade|100|$130100
+Month 10:My Alma Mater PI|-60|$130040

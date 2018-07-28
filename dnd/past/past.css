@@ -1,0 +1,34 @@
+body 		{background-image:url('../images/Rock Floor.png')}
+h1			{font-size:32px; text-align:center; background-color:#aaaaaa;}
+h2			{font-family:'allura',georgia}
+h3			{font-size:24px; text-align:center}
+p			{font-size:16px; line-height:20px; font-family:'arial'; text-align:justify;
+				max-width: 400px; padding:5px;}
+a			{color:#FFD249;}
+a:visited	{color:#FDFFA8;}
+a:hover		{color:#F23FFF;}
+
+.bld		{font-weight:bold; font-size:18px;}
+.em			{font-style:italic;}
+.content	{background-image:url('../images/Light Wood.png'); background-repeat:repeat; 
+				width:80%; padding:3px; margin-top: 2px; margin-left:auto; 
+				margin-right:auto; border:solid 1px black;}
+.contract	{border:3px solid #DDAB66; margin-left: auto; margin-right:auto;
+				margin-top:12px; background-color:#FDFF96; max-width:430px;}
+.contract p	{margin-top:2px; margin-bottom: 2px; text-indent:24px;}
+.post		{border:solid 1px #A33E00; background-color:#E8BA6D;}
+.post p		{margin:2px;}
+.title		{text-align:center;}
+.monthNumber	{text-align:right;}
+.followerList	{font-weight:bold;}
+
+#past		{width: 86%; height: 650px; overflow: scroll; }
+#toolbar 	{ width: 400px; top: 20px; position:relative;}
+#loginBar	{background-color:#FDFF96; border:solid 2px #DDAB66;}
+#discussion	{height:364px; overflow:scroll;}
+@font-face{
+	font-family:'allura';
+	src:url('Allura-Regular.otf') format('opentype');
+	font-weight:normal;
+	font-style:normal;
+}

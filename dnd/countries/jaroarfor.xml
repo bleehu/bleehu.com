@@ -1,0 +1,419 @@
+<root>
+	<countries>
+		<country name="assembly" color="B7D6FF">
+			<name>The Assembly</name>
+			<body>
+				The Assembly is a race of [possibly] sentient Arcanic machines. Every
+				attempt to communicate with members of the race have been met with
+				imminent hostility. The machines work together well, combining into 
+				composite military units.
+			</body>
+			<cities>
+				<city name="No Cities Found">
+					<description>
+						You have not learned enough about The Assembly to know about their cities.
+					</description>
+				</city>
+			</cities>
+			<economy>
+			</economy>
+		</country>
+		<country name="nomans" color="D6CCFF">
+			<name>No Man's Land</name>
+			<body>
+				This land is unoccupied.
+			</body>
+			<cities>
+				<city name="No Cities Found">
+					<description>
+						No cities exist in No Man's Land by definition.
+					</description>
+				</city>
+			</cities>
+			<economy>
+			</economy>
+		</country>
+		<country name="ocean" color="D6CCFF">
+			<name>Ocean</name>
+			<body>
+				No country owns the ocean, though some countries have
+				naval forces that do attempt to control trade routes and the
+				like.
+			</body>
+			<cities>
+				<city name="No Cities Found">
+					<description>
+						No cities have been found floating or underwater
+						as of yet.
+					</description>
+				</city>
+			</cities>
+			<economy>
+			</economy>
+		</country>
+		<country name="tychicus" color="142FFF">
+			<name>Tychicus</name>
+			<body>
+				Before Tychicus was formed, many people were displaced as refugees of the Great War. These people settled in a destitute refugee camp over the future site of Ramoth City. Along with these refugees came a small number of peace-seeking fighters who escorted them on their journey.
+
+				The prominent band of fighters really first came together to rescue a man who was noted for his verbal eccentricity, but written wisdom, from marauding goblins who felt that the the otherwise unclaimed territory was theirs. It was during this breif skirmish that the fighters found unity and group cohesion, as well as one of the core principles of stealth.
+
+				Soon after the camp grew into a settlement large enough both to feed and shelter the refugees who were there, and to attract the attention of bandits who planned to raze the towns in the area for plunder. In a history-defining move, the band united the nearby towns in the effort to preserve peace in the area. These unified towns and tribes would later become the Tychicus of today. While Komoto shrewdly negotiated the support and deployment of troops to the town under attack, Kriv courageously led the rest of the band in an assassination of the Bandit's Chieftain. The companions were wildly successful on both prongs of the attack, and their success led to a more prosperous region.
+
+				When zombies from the local graveyard arose to terrify the town, the band brutally returned the dead to the afterlife. They soon tracked down the necromancer responsible with the help of Shadow, the talented hobbit. With a split vote, the band decided to honor their God by sparing the life of the Necromancer with a desperate plea to their God to prevent the summoning of Orcus himself. The Necromancer lost all of her memories and was pardoned for her sins and allowed to live in the now budding town of Ramoth.
+
+				When sightings of Fey creatures in the area surrounding the towns provoked distress in their home town's mayor, The band eventually found their way to a stolen amulet and Feybreach Castle. They cunningly deceived the monsters there into turning on each other, after which they subdued the Fey portal there with little difficulty.
+
+				When word of a deadly assault from the Great War reached the band, they immediately sprang into action. While Komoto began the diplomacy that founded the country of Tychicus, the band's rogues began a massively successful sabotage campaign that delayed arrival of the attackers by near a month. A month in which Kriv and his sister Aroari used to build stalwart timber walls and Shadow used to construct devastating elemental defenses around the country's entire border. Athena helped as well by adding firetraps to the border before the fight. After some fierce fighting on the border, the attackers fell back, relenting to find easier prey.
+			</body>
+			<cities>
+				<city name="New Settlement">
+					<description>
+						A very small settlement has been set up in central Tychicus. A few 
+						brave pioneers have begun tilling the lands as it renews from its
+						previous occupant. The settlement is so small, it has neither a local
+						inn or church. Adventurers who pass through here will find no bonuses
+						toward their local adventures. What's worse, The local settlers are
+						threatened by Assembly scouts, who seem to have taken an interest in
+						the comings and goings here.
+					</description>
+				</city>
+			</cities>
+			<economy>
+			</economy>
+		</country>
+		<country name="razorin" color="3A3A3A">
+			<name>Tribe of Razorin</name>
+			<body>
+				The Tribe is almost entirely comprised of Bladelings, and the society
+				has a strong emphasis on war and hierarchy. The Tribe was mostly friendly
+				when Kriv, Aramil and Balasaar first set foot in Jaroarfor.
+				Cheiftain Razorin has led the tribe for several years, aided by his queen.
+				The Bladelings are a very honor-driven and warlike people, who fight with 
+				almost every one of their other neighbors.
+				Cheiftain Razorin manages this conflict by delegating to his five field Marshals.
+				Field Marshal Maizaka manages most of the conflict with the Assembly.
+			</body>
+			<cities>
+				<city name="Den of Razorin">
+					<description>
+						Chieftain Razorin rules his clan from his throne at this, his capitol
+						city. It is heavily defended.
+					</description>
+				</city>
+				<city name="Ahloi Mine">
+					<description>
+						This hotly contested mine was secured by Feild Marshall Maizaka along with
+						a contingent of Tychian heroes. It now produces a significant portion of 
+						the metal that the tribal economy needs.
+					</description>
+				</city>
+			</cities>
+			<economy>
+				<export price="160">Steel Arrows x 10</export>
+				<export price="180">Bloodletting Arrows x 10</export>
+				<export price="220">Tomahawk x 5</export>
+				
+				<import price="20" volume="20">Molotov</import>
+			</economy>
+		</country>
+		<country name="aviary" color="2BF7FF">
+			<name>The Aviary</name>
+			<body>
+				The Aviary is ruled by a hierarchy of Sky Lords, whom are served by
+				warriors. Knights and Calvary who ride various birds ranging in size
+				from that of a small horse to those larger than some dragons. They have
+				plutonic diplomatic relationships with a couple of other nations, in which
+				they are less of allies and more business partners. While even their sworn
+				enemies, the Nymphs, have a basic understanding of the lifestyle and 
+				customs of the multiracial working class, the elite society is rather
+				exclusive.
+			</body>
+			<cities>
+				<city name="Tradewinds">
+					<description>
+						Perched atop the triple mesa that looks out over the ocean sits this 
+						affluent trade city. It's horizon is dotted with tall towers which support
+						artificial nests for airborne mounts and races of all sorts. Boats and 
+						fliers come and go from near and far over the sea.
+					</description>
+				</city>
+				<city name="Dovecot">
+					<description>
+						This massive city sits high above the Nymph's jungles on a granite mesa.
+						Dovecot never sleeps; it is in a constant war with the 'treehuggers' over 
+						the timber that serves as The Aviary's most precious resource. Massive 
+						green flying lizards haul timbers from clearings below, while all manner of
+						armored and armed birds and riders move troops and supplies to various 
+						engagements around the local mountainscape and the forest below.
+					</description>
+				</city>
+			</cities>
+			<economy>
+				<export price="25000">Warhawk</export>
+				<export price="2000">Warhawk Armor</export>
+				<export price="6000">Warhawk Armor +2</export>
+				<export price="19000">Greatsparrow</export>
+				<export price="2000">Greasparrow Armor +1</export>
+				<export price="7000">Warbird Ballista</export>
+				<export price="4500">Warbird Firebomb</export>
+				<import price="800">Timber - Pine, 1 cartload</import>
+				<import price="1100">Timber - Oak, 1 cartload</import>
+				<import price="1600">Timber - Cedar, 1 cartload</import>
+			</economy>
+		</country>
+	</countries>
+	<pixels>
+	<!-- x = -8 -->
+		<pixel x="-8" y="-4">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-8" y="-3">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-8" y="-2">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-8" y="-1">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-8" y="0">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+	<!-- x = -7 -->
+		<pixel x="-7" y="-4">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-7" y="-3">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-7" y="-2">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-7" y="-1">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+		<pixel x="-7" y="0">
+			<country>ocean</country>
+			<terrain>water</terrain>
+		</pixel>
+	<!-- x = -6 -->
+		<pixel x="-6" y="-4">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-6" y="-3">
+			<country>aviary</country>
+			<terrain>city</terrain>
+		</pixel>
+		<pixel x="-6" y="-2">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-6" y="-1">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-6" y="0">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+	<!-- x = -5 -->
+		<pixel x="-5" y="-5">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="-4">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="-3">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="-2">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="-1">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="0">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-5" y="1">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+	<!-- x = -4 -->
+		<pixel x="-4" y="-3">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-4" y="-2">
+			<country>aviary</country>
+			<terrain>city</terrain>
+		</pixel>
+		<pixel x="-4" y="-1">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-4" y="0">
+			<country>tychicus</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-4" y="1">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-4" y="2">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<!-- x = -3 -->
+		<pixel x="-3" y="-2">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-3" y="-1">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-3" y="0">
+			<country>tychicus</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-3" y="1">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-3" y="2">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-3" y="3">
+			<country>assembly</country>
+			<terrain>city</terrain>
+		</pixel>
+		<!-- x = -2 -->
+		<pixel x="-2" y="-1">
+			<country>aviary</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="-2" y="0">
+			<country>tychicus</country>
+			<terrain>city</terrain>
+		</pixel>
+		<pixel x="-2" y="1">
+			<country>tychicus</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-2" y="2">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-2" y="3">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<!-- x = -1 -->
+		<pixel x="-1" y="-1">
+			<country>nomans</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-1" y="0">
+			<country>tychicus</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-1" y="1">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="-1" y="2">
+			<country>razorin</country>
+			<terrain>city</terrain>
+		</pixel>
+		<pixel x="-1" y="3">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<!-- x = 0-->
+		<pixel x="0" y="-2">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="0" y="-1">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="0" y="0">
+			<country>tychicus</country>
+			<terrain>mountain</terrain>
+		</pixel>
+		<pixel x="0" y="1">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="0" y="2">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="0" y="3">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<!-- x = 1-->
+		<pixel x="1" y="-2">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="1" y="-1">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="1" y="0">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="1" y="1">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="1" y="2">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="1" y="3">
+			<country>assembly</country>
+			<terrain></terrain>
+		</pixel>
+		<!-- x = 2 -->
+		<pixel x="2" y="-3">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="2" y="-2">
+			<country>razorin</country>
+			<terrain>city</terrain>
+		</pixel>
+		<pixel x="2" y="-1">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+		<pixel x="2" y="0">
+			<country>razorin</country>
+			<terrain></terrain>
+		</pixel>
+	</pixels>
+</root>

@@ -1,0 +1,4 @@
+#history, #cities	{background-color:#E8BA6D; border:3px solid #A33E00; margin:5px;}
+#history			{height:360px; overflow:scroll;}
+#history p			{padding:2px; margin: 20px; text-indent: 12px; width:450px;}
+#cities				{max-width:280px;}

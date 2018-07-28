@@ -1,0 +1,10 @@
+<griv>
+	<name> Griv </name>
+	<body> One of few remaining port cities, it survived because it lies slighty inland, and because of its fierce navy.  Griv was built on a river of the same name.  Only Griv style boats possess the ability to traverse the shallow river beds to get to the city.  Griv is allied with its neighbors, trading them fish and other such goods for the items it needs.  Griv possesses a massive navy that patrols the seas for pirates and protects its traders.</body>
+	<cities>
+			<griv> <city> Griv </city>
+			<description> A sea trade city, it survives by trading inland the goods it can fish out of the sea.
+			</description>
+		</griv>
+	</cities>
+</griv>

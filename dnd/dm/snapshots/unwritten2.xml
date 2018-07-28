@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<root>
+  <contract title="Hire New Blood" roll="15">
+    <followers>Kardin</followers>
+    <prompt> There are plenty of opportunities for citizens of Tychicus who
+			want to work for the Hero's guild. See if any of Cassalua's finest want to
+			join up.</prompt>
+  </contract>
+  <contract title="Mind Dust Part II" roll="17">
+    <followers>Larko</followers>
+    <prompt>
+			Find out who is controlling the mind dust, and what it takes to dispell it.
+		</prompt>
+  </contract>
+  <contract title="Scout The Realm of Tieflings PI: In Sheeps Clothing" roll="4">
+    <followers>Balasaar</followers>
+    <prompt>The Realm is defended by a powerful magic border protection.
+			The easiest way through this barrier would be to pose as a trader
+			from the neighboring coastal country of Griv. Acquire goods and permits
+			to enter the Realm with. This is a strictly no-hostile-action mission.</prompt>
+  </contract>
+  <contract title="" roll="19">
+    <followers>Treklor</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Toughie the vampire slayer" roll="18">
+    <followers>Suuth</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Scout The Realm of Tieflings PI: In Sheeps Clothing" roll="11">
+    <followers>Heiam</followers>
+    <prompt>The Realm is defended by a powerful magic border protection.
+			The easiest way through this barrier would be to pose as a trader
+			from the neighboring coastal country of Griv. Acquire goods and permits
+			to enter the Realm with. This is a strictly no-hostile-action mission.</prompt>
+  </contract>
+  <contract title="Toughie the vampire slayer" roll="7">
+    <followers>Rorre</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Through The Grapevine: Gnome's Gate" roll="1">
+    <followers>Geoff</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Through The Grapevine: Gnome's Gate" roll="17">
+    <followers>Wildlovelies</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Toughie the vampire slayer" roll="7">
+    <followers>Gardonazorph</followers>
+    <prompt>vampire hunting in he unclaimed area just south west of 
+			tychicus must be at night cause that when the vamps come out.</prompt>
+  </contract>
+  <contract title="Scout Griv" roll="10">
+    <followers>Kimoto</followers>
+    <prompt> Griv is a well-dispositioned trading behemoth. A quick friend
+			who sold nice things would be a great asset for Tychicus. But a 
+			diplomatic team shouldn't be sent in until the stage has been set.
+			Travel to the city disguised as a traveling bard and get basic information
+			about the political and economic climate.</prompt>
+  </contract>
+</root>

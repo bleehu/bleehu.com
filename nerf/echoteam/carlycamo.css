@@ -1,0 +1,10 @@
+body				{background-color: #000000;}
+div.container	{background-color:#757570; width: 95%; Margin-left: auto; margin-right: auto;}
+h1, h2, h3		{text-align: center; font-family: Quasimodo; font-size: 28pt; color: #7D0000}
+img				{margin-left: auto; margin-right: auto; display:block;}
+p				{width: 350px; margin-left: 50px;}
+#aboutUs, #HVZTatuw, .squadMedals		
+				{width: 60%; margin-left: auto; margin-right: auto; background-color: 40005E;}
+#activeagents 	{width: 45%; margin-left: auto; margin-right: auto; background-color: 40005E;}
+img.medal		{width: 80px;}
+#ticker		{position:relative; overflow:hidden;}

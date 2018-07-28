@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adventures>
+	<adventure solo="false" class="hard">
+		<name> Razorin's War </name>
+		<location>Tribal Center</location>
+		<description> Chieftain Razorin himself has requested that his 'vassal nation' provide 'tribute' in the form of a team of adventures to help him with a problem of a 'violent' and 'personal' nature. </description>
+		<size> 4-6 </size>
+	</adventure>
+	<adventure solo="false" class="hard">
+		<name>My Alma Mater Part II: Homecoming</name>
+		<size>2-6 (Wildlovelies must be one)</size>
+		<location>Feybreach</location>
+		<description>An urgent summons has been made from the troops in Feybreach Castle. Wildlovelies' presence has been requested urgently. (Origin Mission)</description>
+	</adventure>
+	<adventure solo="false" class="hard">
+		<name> Stephen's Adventure </name>
+		<location>Tychicus South-Eastern border</location>
+		<description> We are awaiting junior DM Stephen H's description of his first adventure. </description>
+		<size> 4-6 </size>
+	</adventure>
+	<adventure solo="true" class="hard">
+		<name>Rock of Ages Part I: Music Box</name>
+		<size>Marindred Only</size>
+		<location>Feybreach</location>
+		<description>
+			A manuscript was found in the Jaroarfor cave. It speaks of a legendary Christ-honoring bard of days of yore. One of the sites of the man's greatest concerts is apparently just south of the Tychean border.
+		</description>
+	</adventure>
+	<adventure solo="true" class="hard">
+		<name>Gaurdian Angel Part II: Tower of Babel</name>
+		<size>Geoff Only</size>
+		<location>Ramoth</location>
+		<description>The attack in Gnomerigon confirmed Geoff's suspicions. He believes the Jal'DeMuerte are most likely to strike a cleric in the UGK.</description>
+	</adventure>
+	<adventure solo="true" class="hard">
+		<name>Archaeology Part V: Deep Freeze</name>
+		<size>Wildlovelies only</size>
+		<location>Jaroarfor Cave</location>
+		<description>Manuscripts that Marindred have unearthed mentioned a great Hypothermancer that once helped a bard. He is rumored to have dwelt to the far east.</description>
+	</adventure>
+	
+	<adventure solo="false" class="completed">
+		<name>Wreck The Halls</name>
+		<size>Completed</size>
+		<location>Maizaka Mine</location>
+		<description>Wunk Hug Tedd-Bur! </description>
+	</adventure>
+</adventures>

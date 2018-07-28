@@ -1,0 +1,256 @@
+<lore>
+	<player name="Kriv">
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Dweller's Cave: commander</adventure>
+			<adventure>Going North</adventure>
+			<adventure>Necronia: Mission Impossible</adventure>
+			<adventure>Bandit's Dungeon: commander</adventure>
+			<adventure>Headhunter Part 3: Pact</adventure>
+			<adventure>Necromancer's Mountain</adventure>
+			<adventure>Battle For Inedependance: commander</adventure>
+			<adventure>Goblin Threat</adventure>
+		</adventures>
+		<origin>
+			<p>Kriv is the son of the current Matriarch of the Smokescales. His mother 
+				Phyrina took the traditional role when her husband and her brother stayed in the
+				capitol to defend their ancestral home. Neither of the Patriarchs were ever 
+				heard from since.</p>
+			<p>Kriv's sister is Aurori, the cleric. She has accompanied him on many of 
+				their adventures. He is fiercely protective of her.</p>
+			<p>Kimoto and Kriv are cousins, and they are very close. Together, they led the
+				refugees of the Smokecales and others away from the anarchy of the
+				capitol during the Century War. Both of them are eligible to succeed 
+				Phyrina as Patriarchs of the family, but it's not apparent which one will
+				take the honor. The issue may be moot if one of them dies on an adventure
+				before the time comes, or the honor may be appointed to the one who continues
+				the family.</p>
+		</origin>
+	</player>
+	
+	<player name="Balasaar">
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Going North</adventure>
+			<adventure>Necronia: Mission Impossible</adventure>
+			<adventure>Bandit's Dungeon</adventure>
+			<adventure>Headhunter Part 1: Down with the Ship</adventure>
+			<adventure>Headhunter Part 2: Wretches and Kings</adventure>
+			<adventure>Headhunter Part 3: Pact</adventure>
+			<adventure>My Alma Mater Part 1: Rushing The Frat</adventure>
+			<adventure>Necromancer's Mountain</adventure>
+			<adventure>Battle For Inedependance</adventure>
+			<adventure>Goblin Threat</adventure>
+		</adventures>
+		<origin>
+			<p>Little is known about Balasaar's origins. It's suspected that he is one
+				of the last of a near-extinct dragonborn tribe, but nobody has ever
+				confirmed this.</p>
+		</origin>
+	</player>
+	
+	<player name="Treklor">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>unknown</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Evynne">
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Mercy Cave</adventure>
+			<adventure>Wreck The Halls</adventure>
+		</adventures>
+		<origin>
+		<p> She can feel the heat on her skin. The six year old wakes up to screams coming for outside. They're faint, but she can still hear them and see the bright light coming through the opening 		in her doorway. As she slowly opens the door, the heat of the 		flames hits her. She can see the high flames on top of all the 		buildings. The screams of the village fill her ears. </p>
+		<p>	"Momma! Poppa!" she cries unheard through the sound. Two 		figures come running toward her. Her mother kneels down and looks 		her in the face, "Evynne, you need to be brave sweet heart," she 		says in her calm tone. Her father yells, "Calina, take Evynne and 		run!" He kneels down and kisses Evynne on the forhead as he always 		does. "be brave my little one." Evynne begins to cry realizing that 		her father is leaving.</p>
+		<p>Her mother takes her by the hand and pulls her away. As they run 		through the village, Evynne sees all her village burning with fury.		What had happened.? How could this happen to her perfect, little 		village? </p>
+		<p>	The noise she here a roar. Her mother whispers to keep 		moving as they attempt to run to safety. Evynne looks back just for 		a second and sees her father. At first she's happy that he is alive,		but then she sees the sword plunged in his gut. The killer is the 		hugest man she has ever seen. No not man. A huge, scaly creature 		that she can only assume to be dragon born.</p> 
+		<p>	Suddenly, she feels her mother's grip loosen. She looks at her 		mother's gaunt face and sees the spear in her chest. "run," her 		mother gasps, "run." And she falls to the ground. She always does 		what she's told and bolts. She's always been the fastest in her 		class. As she nears the woods she sees more and more of the dragon 		born. They are the scariest things she has ever seen. On their 		armor she sees the symbol of the Spiderclaw. 		<p>	She has always been stealthy, and swiftly runs through the 		village darting between the houses unseen. All of sudden she hear 		deep voice yell, "there she is. Grab her!!!" She has to get to the 		woods she can find cover there. She makes it. Her bare feet touch 		the cool earth. She often runs barefooted, so this is not a problem.		She knows this is serious and keeps running. But it's dark and she		can't see. Where's momma? Where's poppa? They're dead. And she's 		all alone, running from these monsters who have destroyed her 		village and everyone she cares about. </p>	
+		<p>	Her foot gets caught on a root. Her face hits something soft. 		When she looks up she sees that it's a pelt. And it's breathing. </p>
+		<p>She sees huge creatures walking on fours and growling. She also hears		crashing coming through the forest. Spiderclaws. The wolves sense 		something wrong. The largest one, a beautiful white wolf, comes  over and grabs Evynne by the collar of her nightgown and flings her  on her back. She howls as if to say, "hang on." And bolts, with the pack following. </p>
+		<p>	Evynne is placed with three other pups. One white like it's  mother, one gray, and the smallest one black. Evynne curls up  against the white wolf to keep warm. </p> 
+		<p>9 years later</p>
+		<p>"Luna!! Where are you. Kipper!! Lisanna!! Come out guys!!" </p>
+		<p>She hears growling and fighting. The click of teeth nashing on  metal. She runs toward the sound. She sees her family fighting  these men. "stop!" she yells. The wolves back off, but the men  still point their swords at them. Evynne steps in between the men  and the wolves. </p>
+		<p>	"who are you?" one of the men ask. He's dragon born. But he doesn't look like a Spiderclaw. </p>
+		<p>"No one. And you are?" </p>
+		<p>	"No one, huh? Well, I am Kimoto, and these are my companions. We're from Tychicus." </p>
+		<p>"never heard of it. Then again. I spend most of my time running through the woods." </p>
+		<p>"are these your pets?"</p>
+		<p>"pets?! No! they're my family. Well.. some of my family the rest are back at the cave or hunting. Which is what they're supposed to be doing." Evynne looks at the wolves sternly. As she looks their  direction she sees smoke coming from where the cave should be and she hears howls. Howls of pain.</p>
+		<p>"No!" the three wolves and her run toward the cave leaving the  strangers without an explanation. She finds the cave strewn with wolves with spears in their sides. She hears a whimper and turns  to see lakla, the mother wolf, speared.</p>
+		<p>"Lakla!" she runs toward her. A blunt object smacks her in the side of the head. She is knocked to the ground, dazed. She hears  the faint sound of two wolves hitting the ground as they are  speared to death. Roughly, she is hoisted up by rough hands. No,  claws. She sees the spiderclaw symbol on the armor of her captors.</p>
+		<p>"Hello my dear." whispers the one in front of her, menacingly. To which she replies by spitting in his face. "Now that's no way to  treat a spiderclaw." </p>
+		<p>	"I don't care." Evynne mumbles through gritted teeth. Their grip tightens.</p>
+		<p>"What was that? I didn't hear you. It doesn't matter anyway." The spiderclaw says. </p>
+		<p>"What do you want from me scum! Are you here to finish the job and kill me! You've already killed both of my families!!  I have nothing left!" Evynne shouts at the spiderclaw in front of  her.</p>
+		<p>"Oh, dear one, we're not going to kill you. No. We didn't kill  your mother. No. She's in our prisons and she constantly calls out your name. Oh won't it be lovely to reunite you two. Mother and  daughter." </p>
+		<p>"What? Momma's alive? But you killed her. I saw the spear go  through her chest!" Evynne says, baffled.</p>
+		<p>"No. She almost died, but our sorcerers were able to heal her.  She kept telling us that we would never find you, but she was  obviously wrong."</p>
+		<p>	"Why do you want me?" Evynne grinds through her teeth. </p> "the Spiderclaw was scouting when they found your village of  Changelings. Changelings can look like any humanoid. Well, we  wanted to use that to our advantage. Use your people to spy on our  enemies, so that we can rule. But we didn't expect your people to  be able to fight so well, so most of your village died. But we were able to capture a few of the women and children, including your  mother." </p>
+		<p>"No." Evynne gasps, tears running down her cheeks.</p>
+		<p>	"But then our scouts spotted a changeling in the forest with a  pack of wolves. You've been very careful not to get captured, so we decided it would be best to take this family away as well, so that  you're less distracted. You will spy on our enemy for us whether  you like it or not!" </p>
+		<p>"I'd never do anything for you!!" </p>
+		<p>"Well, see. You won't have a choice in the matter. Our mages will have you under our control in no time." Fear began to swell inside  of Evynne. Something she hadn't felt in a long time. </p>
+		<p>"You'll never control me" She grinded.</p>
+		<p>"Oh, but who is going to stop us? Everyone you love is either  imprisoned or dead. No one is going to help you" He says with a  smile.</p>
+		<p>"Be quiet. Don't you ever talk about my family again. I will never be controlled by you or anyone else.!!"</p>
+		<p> Smack! Evynnes' knees buckle under the weight of the hit."Put  		her in chains. We need to get her back to camp as soon as possible."</p>
+		<p>"yes sir." Suddenly out of nowhere they hear...</p>
+		<p>"spider claaaawww!!" </p>
+		<p>A giant dragon born comes comes running through the forest and  		starts demolishing everything and everyone. His companions come  		running after him, with Luna not far behind. They start killing the  		spider claw. </p> 
+		<p>	Evynne jumps on top of the leader. "Where is she? Where!!"  		She yells in his ear. </p>
+		<p>	"Dead. We slit her throat cause she was so annoying calling for 		you." He gasps. Evynne, in her rage pulls the chain and breaks his 		neck.</p>
+		<p>Huffing, she goes to the cave and picks up her bow and arrows,  		swings them on her back, and sheaths her two throwing knives.  		Luna comes trotting over and stands by Evynne's side. They start to 		walk away.</p>
+		<p> "Wait!" yells Kimoto, "would you like to come back with us. It  		seems to me you're an orphan, and our God tells us to take care of  		the orphans."</p>
+		<p> "Your God. I only serve the one and true God. His name is  		Yahweh."</p>
+		<p>"That's one thing we have in common. We have room for you."</p>
+		<p> Evynne looks down at Luna, who barks. "Very well. I am Evynne."</p>
+		</origin>
+	</player>
+	
+	<player name="Heiam">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Mercy Cave</adventure>
+			<adventure>Wreck The Halls</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Marindred">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Come out, Come out</adventure>
+			<adventure>Come out, Come out</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Suuth">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Mercy Cave</adventure>
+			<adventure>Wreck The Halls</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Aramil">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic></pic>
+		<adventures>
+			<adventure>Killers Keepers</adventure>
+			<adventure>Angels PII</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Geoff">
+		<origin>
+			<p>The warm scarlet blood ran down the eighteen&#45;year&#45;old&apos;s blade into the sand.</p>
+			<p>&quot;A good kill,&quot; Master Jimil&apos;Abarad intoned as he stepped from his apprentice&apos;s shadow. He gently placed his hand on the boy&apos;s shoulder. &quot;Your parents would be very proud that you&apos;re doing your part for the Empire.&quot; The boy deftly flicked the moisture from his blades which pooled next to the woman he&apos;d slain.</p>
+			<p>&quot;They&apos;re being taken care of&#63;&quot; The boy asked as he turned.</p>
+			<p>&quot;But of course&#x21;&quot; Abarad replied for the hundredth time. &quot;now, I have another special task for you, my pupil. There&apos;s  a harsh and evil government to the North that needs our attention. Let us return to the Enclave...&quot;</p>
+			<p>Four Years Later</p>
+			<p>A very pretty half&#45;elf stood in the armory strapping on the stealth armor common to disciples of Jal&apos;deMuerta. She turned to Geoff as she belted on her bracer. &quot;Tychicus then, eh&#63;&quot; She asked in an expectant tone.</p>
+			<p>&quot;They say they send assassins against their citizens almost as much as they target our civilians. They murdered the advisor to the governor of Heath. Just left him bleeding in the study. It&apos;ll be nice to repay them in kind.&quot; Geoff explained while lacing up his boot. </p>
+			<p>&quot;&apos;course, to do that, you&apos;ll have to do better than you did against those elves last week&#x21;&quot; laughed a jet&#45;black Kenku as he walked in the door.</p>
+			<p>&quot;Keep your beak, Barok&#x21;&quot; The elf shot back. &quot;They were waiting for him&#x21;&quot;</p>
+			<p>&quot;heh&#x21;&quot; The Kenku sneered and ruffled his feathers in amusement. &quot;I&apos;d expect excuses from a student with so few souls&#x21;&quot; He approached his locker and began inspecting a bottle of poison.</p>
+			<p>&quot;Discipline is the mark of a great servant.&quot; They all jumped as a red&#45;eyed and black tattooed razorclaw shadowstepped into the room. &quot;One&apos;s count of souls is of lesser consequence. You&apos;ll discipline your tounge, Barok.&quot;</p>
+			<p>&quot;By your instruction, Shademaster Tor.&quot; Barok grunted as he gave a curt bow.</p>
+			<p>&quot;And Nandara, Geoff will defend his reputation with his own blades. Mistakes lead to an early end to servitude.&quot;</p>
+			<p>&quot;By your instruction, Shademaster&quot; The elf whispered with a bow.</p>
+			<p>&quot;Geof&#x21;&quot; At the sound of his name, Geoff drew his daggers and saluted. &quot;Pack your things. Before you leave, I want you see a certain pirate ship. Your target &#45; &quot;</p>
+			<p>&quot;Shadowmaster&#x21;&quot; A well&#45;armed minotaur with charcoal&#45;colored fur and obsidian eyes burst into the armory. &quot;One of our sentries was just pulled from his tower&#x21; They think it&apos;s Mal&apos;Ator&#x21;&quot;</p>
+			<p>&quot;&#45; He&apos;ll be headed for Jimil&apos;Abarad&#x21;&quot; shouted Tor, drawing a glaive. </p>
+			<p>Twenty Minutes Later</p>
+			<p>Geoff couldn&apos;t see him, couldn&apos;t see anything. The flash had caught Nandara and him completely off guard. Of course, Nandara didn&apos;t have the pressure of the ex&#45;shadowmaster&apos;s knee on her chest or claws on her face to tell her where the enemy was. </p>
+			<p>&quot;My quarrel isn&apos;t with you, youngling...&quot; Mal&apos;Ator whispered to him as his grip tightened around his jawline. The defector was about to snap Geof&apos;s neck.  &quot;...But the deceiver must be brought to justice for his puppeteering.&quot; The unmistakable sound of metal meeting bone reached Geof&apos;s ears at the same time as his assailant&apos;s blood. The unmistakable hiss of an assassin shifting to shade form was next, followed by his mentor&apos;s loud, close voice.</p>
+			<p>&quot;Oh no you don&apos;t&#x21;&quot; Another hiss and a wet &quot;Thwak&#x21; Thwack&#x21;&quot; Then the three survivors heard just two faint drops of liquid on dirt. It was over. </p>
+			<p>18 Months Later</p>
+			<p>&quot;Well, if I must meet my maker, at least it is by your hand.&quot; Geoff thought these where honorable last words. Balasaar was a skilled assassin and a good neighbor. Maybe if he had tried poisoned cookies...</p>
+			<p>&quot;I won&apos;t kill you.&quot; Balasaar replied, pulling his shadowblade from his neck and stepping off of his chest. &quot;Though my life was forfeit, My God showed me mercy and gave me it back. He commanded that you should be so fortunate as well.&quot;</p>
+			<p>&quot;You&apos;re a master assassin who does not kill&#63; Who is this God&#63;&quot; Geoff asked.</p>
+			<p>Balasaar offered him a hand. &quot;The irony is, you just might meet who made you today after all...&quot;</p>
+		</origin>
+		<growth>Defining moments:</growth>
+		<pic>images/geoff.png</pic>
+		<adventures>
+			<adventure>Dweller's Cave</adventure>
+			<adventure>Going North</adventure>
+			<adventure>Gaurdian Angel Part 1: Tree-age</adventure>
+			<adventure>Wreck The Halls</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Kimoto">
+		<origin></origin>
+		<growth>Defining moments:</growth>
+		<pic>images/kimoto.png</pic>
+		<adventures>
+			<adventure>UTAH Insurgency</adventure>
+			<adventure>Zombies in the graveyard</adventure>
+			<adventure>Necromancer's cave</adventure>
+			<adventure>Going North</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Wildlovelies">
+		<origin>
+		<p>Wildlovlies the gnome wasn&apos;t always a renowned fire mage, you know. He was born to spiritual, loving gnomy parents who were tasked with guarding the wellspring sanctuary in Eden Grotto. Early in his life he loved chasing the cat-sized lady bugs that lived near his hovel. He did well in gnome school, a fact that often got him picked on by larger, tubbier gnomes. But a good friend down the street from him always stuck by his side. Heather was a beautiful young gnome who liked daffodils and had a way with the naturey things around her. She and Wildlovelies became close friends in their early years. </p>
+		<p>A few years after starting gnome school, Wildlovelies began showing arcane talent. This did not stymie any of his peer&apos;s ill-feeling toward him, and the bullying intensified. One day, after having had his face rubbed in his tomato salad lunch, Lovlies had had enough. He pinned the bully to the ceiling, lighting him on fire a little in the process. The incident found him banished after only being able to say goodbye to his parents. He never saw little Heather again.</p>
+		<p>After a rough couple of months on his own, Wildlovelies found himself at the gates of the Capitol University For Arcane Arts. He applied, but was refused because he was too young at the time. One of the instructors who was present at the interview was impressed with his talent and plucky (one might even say &quot;firey&quot;) attitude, and took him in as a house servant, paying him room and board while The professor&apos;s name was Master Septain, and he was a renowned pyromancer, who subtly and gently encouraged the development of Lovlies&apos;s then-rough talents. When he came of age, Wildlovlies passed the entrance testing with flying colors.</p>
+		<p>Just a few short years before the outbreak of the Great War, Lovlies&apos;s success in school was recognized when he and his new friend and colleague were selected for special training as Arcane Vangaurds. Shadow and Lovlies were quick friends due to their similar height and interests. They celebrated their entrance with a wild night in the capitol. He also made good friends with Master Septain&apos;s newest apprentice, a young half-elf that showed great promise as a warlock. </p>
+		<p>The epicenter of the war spread quickly in the Capitol, and the day the old emperor was assassinated the Academy was overrun by local gangsters who had been heavily armed by forces unknown. To give Lovlies, Shadow and Roscoe the chance to escape, Master Septain and many of the more powerful instructors stayed in the academy to hold off the attack. While fleeing the grounds, Lovlies saw his favorite physics teacher (the one who taught him how to do a good knockback spell) get decapitated by a band of thugs wielding powerfully magical katanas. By the time the trio got two blocks away from the academy, the place blew up in a firey explosion.</p>
+		<p>The entire city was a cacophony of violence and danger. Shadow split off from the group to stall a band of raiders near the city&apos;s edge. Two collapsed buildings and an immolated horse later, he would flee relatively unscathed. The forrest just east of the Capitol wasn&apos;t much less perilous, and during an encounter with monsters, Roscoe and Lovlies lost each other. </p>
+		<p>Wildlovelies&apos;s search for Roscoe started the minute he wiped what was left of the quickest monster off of his shiney boots, but before he could follow up on his last good lead, he got a letter from Shadow calling him to Tychicus...</p>
+		</origin>
+		<growth>Defining moments:</growth>
+		<pic>images/wildlovelies.png</pic>
+		<adventures>
+			<adventure>UTAH Insurgency</adventure>
+			<adventure>Archaeology I: Running The Gauntlet</adventure>
+			<adventure>Archaeology I: Running The Gauntlet</adventure>
+			<adventure>Archaeology II: Fish in a barrel</adventure>
+			<adventure>Archaeology III: A Better Mousetrap</adventure>
+			<adventure>My Alma Mater Part 1: Rushing The Frat</adventure>
+		</adventures>
+	</player>
+	
+	<player name="Gardonazorph">
+		<growth>Defining moments:</growth>
+		<pic>images/kimoto.png</pic>
+		<adventures>
+			<adventure>UTAH Insurgency</adventure>
+			<adventure>Zombies in the graveyard</adventure>
+			<adventure>Necromancer's cave</adventure>
+			<adventure>Going North</adventure>
+		</adventures>
+		<origin>
+			<p>Gardonazorph, or &quot;Don&quot; for short was born in a country far in the south near tropical lands called Zortizan in the city of Morstad. Don was abandoned at a young age and as a result was an orphan for most of his child life. Feeling very lonely and abandoned, Don adapted some sadistic tendencies. This was more of a way to make him feel better by making others share his pain.</p>
+			<p>At the age of 14 in Zortizanian culture, males must travel with a group of their peers into the jungle and survive there for 2 months without assistance in order to come of age. Don and 27 other boys went in this group. Instead of going to the traditional Morstad Glades north of the city for their expedition, they went to Spear-peak Mountain which is farther away to the west. While there were wild animals there, there was not the same abundance of food as if they had gone to the glades. Each boy became hungry and desperate as time went on. The weaker died off first, mostly because the stronger did not share their food, while some others tried travelling back to the glades alone, but they were never seen again.</p>
+			<p>By the time this sorting had been complete after about 3 weeks, only Don and 6 other boys remained. Don had caught his food by sniping birds with rocks and eating them, whilst sharpening a stick for any bigger game he found. But now the others were having trouble catching rabbits and goats as most had been eaten or turned rancid. A boy by the name of Esbern made the mistake of trying to steal some of Don&#39;s food. Don woke from his sleep immediately; got the stick he had sharpened into a spear, and impaled the boy without mercy. The other 5 did not dare try to take his food then, but instead tried to kill him with traps, mediocre weapons, and all failed. All 5 of them eventually fell to Don&#39;s hand. </p>
+			<p>When the 2 months was up, the trek back to Morstad began and when he had returned, the King of Morstad asked &quot;Where are the others?&quot; Don at first ignored the question, but then answered after repetition &quot;They have been killed.&quot; No one had anything to say to that, and most suspected it was his doing. However, one noble responded to his suspicion not with scorn or anger, but with interest. His name was Ikebix Cezar, and preferred to be called Lord Ikebix. </p>
+			<p>Being that Don had &quot;come of age&quot;; he was kicked out of his orphan shelter to live on the streets. Lord Ikebix offered to educate, train, and adopt Don to live in his manor east of Morstad. Seeing no other reasonable alternative, he agreed. Being put in the Zortizanian Academy of Heightened Learning was a bit rough at first, and involved many, many fights. However, Don eventually began to let up on his sadistic tendencies and do good things. The primary reasoning behind this: Don now belonged. He now had a home that cared about him. Don learned several things at the academy, including reading, writing, mathematics, basic physics and trap making. As such, Don gained much credit among his people.</p>
+			<p>At home, Ikebix behaved as much as a wealthy lord-father could. He provided clothes and made sure servants kept Don fed and safe as well as his environment clean. Ikebix in his spare time built upon Don&#39;s combat skills. As well as Don&#39;s throwing and brawling, he taught him sword-fighting techniques as well as the ability to make the best out of his adrenaline when he is hurt. Their relationship became close with time and Ikebix had declared that Don will be his heir.</p>
+			<p>Unfortunately, all good things must come to an end. During the night when Don was 19, a group of goblin assassins infiltrated Ikebix&#39;s manor. They slew Ikebix in his sleep and came to Don&#39;s room. Being the light sleeper he is, he grabbed his greatsword as soon as he heard their light footsteps and began to fight. The first 3 in his room we startled by his awakening and quick response, letting them be cut down easily. Hearing the cries of their comrades, the others made an attempt to run away. But in their panic, caused the servants to wake up and the goblin assassins found themselves outnumbered.</p>
+			<p>The servants took 1 prisoner and the rest were supposedly executed. Don went to check on Ikebix and found him already dead. Don was devastated. He had finally found a home that cared for him, and it was wrenched from him. He was alone again, except for the servants, but they never had any close relationship with Don. Don then interrogated the goblin, finding that he was the elder of the group. Trying to take advantage of the situation, Don offered him a deal: Either he would teach Don Goblin language and customs and then be set free in 2 years, or he would be executed. The Goblin, whose name was Pleetin, decided to teach Don.</p>
+			<p>Pleetin and Don were uneasy with each other at first given the situation of which they came to meet, but eventually the ice broke and actual education begun. Don learned goblin language and their rules of speech. One of the more noteworthy rules was that 2-dimensional shapes were terms equivalent of swearing because in goblin history, a curse was cast that made some goblins turn mad using weapons in the shape of them. Also, 3-dimensional shapes are banned terms as the mad goblins used those in their ramblings which in turn drove other goblins mad. This has since ceased to happen, but are still feared by goblins even today. Mentioning a 3-dimensional shape will result in your comrades turning upon you and killing you as quickly as possible to stop your madness. This rule does not however apply to all goblins. </p>
+			<p>Also, in goblin society, they use a significant amount of geometric skill in constructing their buildings (oh the irony) and have some skill in the use of magic. Being able to manipulate rocks with magic was one skill Don was able to apply with his throwing rocks, and named the technique after his fallen lord. The higher level of this is creating a ball of energy in the place of that rock and throwing that instead, but is a very hard skill to master for a human.</p>
+			<p>After the 2 years were up, Don and Pleetin had forged a friendship. Pleetin wished to stay in the manor, but Don told him he was leaving to go journeying. Not being surrounded by memoirs of his past, he hoped to forge himself a new life. Pleetin decided to remain in the manor. Don agreed to let him live there and let the servants be at Pleetin&#39;s command. Gardonazorph then set out upon his journey at the age of 20, in hopes of making a legacy that he will create.</p>
+			<p>Gardonazorph found himself joining Tychicus with his good friend Tynall.  He has since found out that his home was destroyed during the war.</p>
+		</origin>
+	</player>
+</lore>

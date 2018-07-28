@@ -1,0 +1,15 @@
+Asteroids|Atari|N/A
+Adventure|Atari|N/A
+Donkey Kong|Nintendo|N/A
+Pac-Man|Atari|N/A
+Fishing Derby|Activision|N/A
+Combat|Atari|N/A
+Video Chess|Atari|N/A
+E.T. The Extra-terrestrial|Atari|N/A
+Kaboom!|Activision|N/A
+Warlords|Atari|N/A
+Outlaw|Atari|N/A
+Tele-games|Tele-Games|N/A
+Chopper Commander|Activision|N/A 
+Frogger|Sega|N/A 
+Raiders of the Lost Ark|Atari|N/A

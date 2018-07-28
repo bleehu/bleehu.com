@@ -1,0 +1,40 @@
+body				{background-color:#343122;}
+p				{text-indent:14px; margin-top:6px; 
+					font-family:"Verdana", sans-serif;}
+h1				{text-align:center; font-size:26pt; 
+					font-family:"virgo_01regular", fantasy; margin-top:8px; 
+					margin-bottom:6px;}
+
+a				{color:#BF9906;}
+a:visited		{color:#F15927;}
+a:hover			{color:#BF9906; }
+
+.content		{float:left; background-color:#5E6261; width:44%; margin-left:10px;
+					margin-top:14px; padding:12px;}
+.content:hover	{background-color:#7E8281;}
+.thumbnail		{width:22%; max-width:120px; margin-left:auto; margin-right:auto; display:block;}
+.dart			{width:80px; position:absolute; z-index:2;}
+					
+#head			{color:#BF9906;}
+#mugshot		{float:right; width:40%; margin-right:10px; margin-top: 14px;}
+.content, #container, #mugshot	{border:#C09C0A solid 2px; border-radius:18px; }
+#container		{width:85%; overflow:hidden; background-color:#0D144A;
+					margin-left:auto; margin-right: auto; padding:3px;}
+#dartWindow		{position:absolute; left:0; top:0; width:100%; height: 130%; z-index:-1;
+					overflow:hidden; background:none;}
+					
+@media screen and (min-width:800px) {
+	#container	{width:68%;}
+}
+					
+@font-face {
+    font-family: 'virgo_01regular';
+    src: url('fonts/virgo.eot');
+    src: url('fonts/virgo.eot?#iefix') format('embedded-opentype'),
+         url('fonts/virgo.woff') format('woff'),
+         url('fonts/virgo.ttf') format('truetype'),
+         url('fonts/virgo.svg#virgo_01regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
